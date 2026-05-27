@@ -9,35 +9,30 @@ The motivating use case is rare disease diagnosis, where patient histories may c
 
 ```
 project-root/
-+---Code_Enc_Diag/              # Code for encrypted retrieval and associated helper functions
-¦   +---APIs                    # Reusable modules and fuctions
-¦   ¦   +---EncPipeline         #
-¦   ¦   +---Plots               #
-¦   ¦   +---Utils               #
-¦   ¦   +---Validation          #
-¦   +---CallScripts             #
-¦   ¦   +---EncPipeline         #
-¦   ¦   +---Plots               #
-¦   ¦   ¦   +---Plots           #
-¦   ¦   +---Results             #
-¦   ¦   ¦   +---DataLeak        #
-¦   ¦   ¦   +---EncTradeoffs    #
-¦   ¦   +---Validation          #
-¦   +---docs                    #
-¦       +---index.html          #
-+---Code_Rare_Dis               #
-¦   +---APIs                    #
-¦   ¦   +---Utils               #
-¦   +---CallScripts             #
-¦       +---ProcessData         #
-+---Processed_Data              #
-+---Raw_Data                    #
-    +---Case_Reports
-    ¦   +---case_reports_excerpts
-    ¦   +---case_reports_prompts
-    ¦   +---clinical_notes_gemini2p5flash
-    +---OrphaData
-        +---XML
++---Code_Enc_Diag/                                  # Code for encrypted retrieval, validation, and result replication
+¦   +---APIs                                        # Reusable modules and fuctions for encrypted retrieval (see Code_Enc_Diag/docs/index.html for details)
+¦   +---CallScripts                                 #
+¦   ¦   +---EncPipeline                             # 
+¦   ¦   ¦   +---`CallScript_Enc_RAG_pipeline.py`    # Main encrypted retrieval pipeline script  
+¦   ¦   +---Plots                                   #
+¦   ¦   +---Results                                 #
+¦   ¦   ¦   +---DataLeak                            #
+¦   ¦   ¦   +---EncTradeoffs                        #
+¦   ¦   +---Validation                              #
+¦   +---docs                                        #
+¦       +---index.html                              #
++---Code_Rare_Dis                                   #
+¦   +---APIs                                        #
+¦   ¦   +---Utils                                   #
+¦   +---CallScripts                                 #
+¦       +---ProcessData                             #
++---Processed_Data                                  #
++---Raw_Data                                        #
+    +---Case_Reports                                #
+    ¦   +---case_reports_excerpts                   #
+    ¦   +---case_reports_prompts                    #
+    ¦   +---clinical_notes_gemini2p5flash           #
+    +---OrphaData                                   #
 ```
 
 ## Installation and Setup
