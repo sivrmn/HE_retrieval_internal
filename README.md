@@ -7,6 +7,7 @@ The motivating use case is rare disease diagnosis, where patient histories may c
 
 ## Project Structure
 
+```
 project-root/
 +---Code_Enc_Diag/              # Code for encrypted retrieval and associated helper functions
 ¦   +---APIs                    # Reusable modules and fuctions
@@ -37,7 +38,7 @@ project-root/
     ¦   +---clinical_notes_gemini2p5flash
     +---OrphaData
         +---XML
-
+```
 
 ## Installation and Setup
 
