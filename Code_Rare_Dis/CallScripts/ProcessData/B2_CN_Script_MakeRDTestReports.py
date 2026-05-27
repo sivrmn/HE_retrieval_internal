@@ -43,7 +43,7 @@ save_path = "../../../Processed_Data/"
 
 path_case_reports = "../../../Raw_Data/Case_Reports/"
 
-path_gemini_cn_so = path_case_reports + "clinical_notes_gemini2p5flash/so_sections/"
+path_gemini_cn_so = path_case_reports + "clinical_notes_gemini2p5flash/so_sections_w_artificial_names/"
 
 #%%
 

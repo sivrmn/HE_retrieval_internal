@@ -1,0 +1,67 @@
+Patient Name: Ajaxthe Endipy
+Date of Birth: 06/15/1950 (75 y/o)
+Date of Note: August 22, 2025
+
+S (Subjective)
+The patient is a 75-year-old white male with a history of heart transplant, chronic heart failure, and myocardial infarction. He is currently asymptomatic and reports no respiratory symptoms such as cough, shortness of breath, or chest pain. He denies any recent trauma or sick contacts.
+
+O (Objective)
+Vital Signs: Not provided.
+Physical Exam:
+
+Lungs: Auscultation reveals bibasal pulmonary “velcro” crackles.
+Imaging:
+
+Chest X-ray (at age 65): Bilateral reticulonodular abnormalities, predominant in the lower lobes.
+
+High-Resolution Computed Tomography (HRCT) (at age 65): Confirmed bilateral reticular abnormalities with minimal honeycombing in the periphery of both lower lobes.
+Lab/Diagnostics:
+
+Lung Function Tests (at age 65):
+
+FVC: 73% of predicted
+
+FEV1: 75% of predicted
+
+TLC: 67% of predicted
+
+DLCO: 60% of predicted
+
+Interpretation: Mild restrictive ventilatory defect.
+
+Bronchoalveolar Lavage (BAL) (at age 65):
+
+Cytology: Slight lymphocytosis with a prevalence of CD4+ T lymphocytes.
+
+CD4/CD8 ratio: 3.6
+
+Stains/Cultures (bacteria, fungi, mycobacteria): Negative.
+
+Serum/BAL Precipitins: Negative.
+Past Medical History:
+
+Myocardial Infarction (age 42)
+
+Chronic Heart Failure with recurrent pulmonary edema
+
+Heart Transplant (age 56)
+
+Surgical History: Heart transplant
+Social History:
+
+Occupation: Farmer until age 40.
+
+Smoking History: Former smoker, 20 pack-years.
+Medications:
+
+Acetylsalicylic acid (150 mg/day)
+
+Amiloride/hydrochlorothiazide (5/50 mg/day)
+
+Felodipine (5 mg/day)
+
+Atorvastatin (5 mg/day)
+
+Azathioprine (50 mg twice daily)
+
+Cyclosporine (100 mg twice daily)

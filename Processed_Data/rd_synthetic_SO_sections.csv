@@ -1,6 +1,6 @@
 FILE_NAME,DISEASE_ABBR,DISEASE_OP_LABEL,CLINICAL_NOTE_SO
 ALS_26515621_1_gemini2p5flash_SO.txt,ALS,803.0,"S: Subjective
-Patient: Arthur Miller
+Patient: Aloctan Caliope
 
 DOB: 08/15/1970 (55 years old)
 
@@ -56,7 +56,7 @@ Creatine Kinase (CK): Mildly elevated at 250 IU/L.
 GM1 Ab titers: Normal.
 
 Imaging: Brain and cervical spine MRI unremarkable."
-ALS_26515621_2_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Arthur Johnson
+ALS_26515621_2_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Mintias Ajaxth
 DOB: 08/22/1960
 
 Date of Visit: 08/22/2025
@@ -86,7 +86,7 @@ Electrophysiology:
 Nerve Conduction Studies (NCS): Normal median and ulnar motor studies. Asymmetrically reduced peroneal CMAP amplitudes. Tibial CMAPs and sural SNAPs are normal.
 
 Needle Electromyography (EMG): Active and chronic denervation changes with reduced recruitment in the lower extremities. Arms are spared. Lumbar paraspinal muscles show active denervation changes."
-ALS_26515621_3_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Mark Chen
+ALS_26515621_3_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Melespe Selenus
 
 Date of Service: August 22, 2025
 
@@ -113,7 +113,7 @@ Needle Electromyography (EMG): Active and chronic denervation changes were noted
 Creatine Kinase (CK): Mildly elevated at 240 IU/L (reference range: 30-200 IU/L).
 
 MRI Brain: Unremarkable."
-ALS_28356084_1_gemini2p5flash_SO.txt,ALS,803.0,"Patient: John MacGregor
+ALS_28356084_1_gemini2p5flash_SO.txt,ALS,803.0,"Patient: Lintius Antalus
 Date of Birth: 06/15/1939
 Age: 71
 Date of Visit: 03/22/2010
@@ -137,7 +137,7 @@ Emotional Lability Questionnaire Score (ELQS) 11.
 Hospital Anxiety and Depression Scale (HADS) score for anxiety is 12/21 (clinical levels).
 
 HADS score for depression is 9/21 (borderline levels)."
-ALS_28356084_2_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Isla MacDonald
+ALS_28356084_2_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Sarmops Iriason
 
 Date of Note: August 22, 2025
 
@@ -160,7 +160,7 @@ Emotional Lability: ELQS score 0 (no evidence of emotional lability).
 Anxiety/Depression: HADS scores of 7 and 6, respectively (no evidence of anxiety or depression).
 
 "
-ALS_33230634_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: John Odera
+ALS_33230634_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Hymnius Nintaes
 DOB: 04/15/1969
 Date of Note: 08/22/2025
 
@@ -193,7 +193,7 @@ Liver Ultrasonography: Reported as normal despite slightly elevated liver enzyme
 MRI (lumbar): Herniated lumbar disc at L4/L5 and L5/S1.
 
 Neurophysiological Exam (Neurography & EMG): Fibrillation potentials and positive sharp waves found in several skeletal muscles, including the tongue (glossus muscle). The study concluded with evidence of widespread axonal damage and denervation."
-ALS_34254495_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Jason Miller
+ALS_34254495_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Hechous Mellios
 Date: August 22, 2025
 
 S: Subjective
@@ -242,7 +242,7 @@ Cervical, Thoracic, Lumbar MRI: Normal.
 
 Electromyography (EMG): Reduced amplitude of motor potentials. Fibrillation potential, sharp waves, and prolonged polyphasic motor unit potentials (MUPs) were seen in multiple muscles, including bilateral tibialis anterior, bilateral gastrocnemius, right biceps, right deltoid, genioglossus, and rectus abdominis."
 ALS_34916730_1_gemini2p5flash_SO.txt,ALS,803.0,"Patient Note
-Patient Name: Eleanor Vance
+Patient Name: Hypedon Semazon
 Date of Birth: 08/22/1977
 Date of Service: 08/22/2025
 
@@ -279,7 +279,7 @@ NCS: No CMAP response for the right peroneal nerve; decreased CMAP amplitudes fo
 EMG: Positive sharp waves (2+ to 3+) noted in bilateral thoracic and lumbar paraspinalis muscles, as well as bilateral lower extremity muscles, including bilateral biceps femoris, tibialis anterior, peroneus longus, tensor fascia latae, gastrocnemius, and right vastus medialis.
 
 Follow-up (6 months): Bilateral knee and ankle reflexes have since increased."
-ALS_34916730_2_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Robert Miller
+ALS_34916730_2_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Helemus Calisus
 
 Age: 52
 
@@ -324,7 +324,7 @@ Follow-up at 6 months:
 Increased muscle tone in bilateral lower limbs.
 
 Increased bilateral knee and ankle reflexes. Bilateral biceps and triceps reflexes remained normal."
-ALS_34916730_3_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Arthur Miller
+ALS_34916730_3_gemini2p5flash_SO.txt,ALS,803.0,"Patient Name: Alcinus Evandan
 
 S: Subjective
 The patient is an 80-year-old man who reports a slowly progressive, non-painful left distal upper extremity discomfort over the past 8 months. He was previously diagnosed with C8 radiculopathy from C7-T1 foraminal stenosis at another hospital. He denies any bulbar symptoms.
@@ -350,7 +350,7 @@ Nerve Conduction Study (NCS): CMAP of the left median and ulnar nerves show low 
 
 Electromyography (EMG): Positive sharp waves (1+ to 2+) are observed in the left cervical paraspinalis, flexor carpi radialis, abductor pollicis brevis, abductor digiti minimi, first dorsal interossei, and bilateral thoracic paraspinalis and genioglossus."
 ALS_35016464_gemini2p5flash_SO.txt,ALS,803.0,"Patient Information
-Name: Alex Chen
+Name: Cothyia Cephus
 DOB: XX/XX/1999
 Date of Visit: 04/10/2018
 
@@ -409,7 +409,7 @@ CSF: Protein 802 mg/L. All other CSF tests (acid resistance, fungus, virus) were
 
 Other labs: Routine blood work, electrolyte, renal function, vasculitis, coagulation, thyroid, and antibody tests were all within normal limits."
 ALS_37203937_gemini2p5flash_SO.txt,ALS,803.0,"Clinical Note
-Patient Name: John Doe
+Patient Name: Galthon Echiler
 Age: 45-year-old male
 Date of Service: August 22, 2025
 
@@ -440,10 +440,10 @@ Imaging:
 
 MRI Brain and Angiography: No lesions found in the brain or spinal cord. Imaging findings are normal."
 FOP_24366806_gemini2p5flash_SO.txt,FOP,337.0,"Clinical Note
-Patient Name: Sarah Johnson
+Patient Name: Neolyx Bitris
 
 S (Subjective)
-Sarah Johnson is a 16-year-old female who reports a two-month history of progressively worsening restricted movement in her elbows and shoulders. The limitation has become so severe that she is now unable to feed or dress herself. She reports she is still able to walk independently at home, though with great difficulty. She was born with a bilateral great toe deformity. A bump on her right scapula was first noted at age 7, followed by the development of multiple bony swellings throughout her body over time. She denies any other symptoms at this time. She attained menarche at age 14.
+Neolyx Bitris is a 16-year-old female who reports a two-month history of progressively worsening restricted movement in her elbows and shoulders. The limitation has become so severe that she is now unable to feed or dress herself. She reports she is still able to walk independently at home, though with great difficulty. She was born with a bilateral great toe deformity. A bump on her right scapula was first noted at age 7, followed by the development of multiple bony swellings throughout her body over time. She denies any other symptoms at this time. She attained menarche at age 14.
 
 O (Objective)
 Vitals: Not specified.
@@ -461,7 +461,7 @@ Hips: Right hip is fixed in 70º of flexion. Left hip movement is restricted.
 Cervical Spine: Restricted movement of 20º each for forward flexion, lateral flexion, and rotation.
 
 Trunk: Rigid kyphosis with torticollis. Prominent trapezius and scalene muscles noted. Chest excursion is 2.8 cm."
-FOP_27800117_gemini2p5flash_SO.txt,FOP,337.0,"A patient named Jane Doe, a 38-year-old female, came in with a chief complaint of a progressively enlarging right thigh. The patient first noticed the change in volume about 3 years ago, and it's now causing her some functional disability.
+FOP_27800117_gemini2p5flash_SO.txt,FOP,337.0,"A patient named Anchus Proebe, a 38-year-old female, came in with a chief complaint of a progressively enlarging right thigh. The patient first noticed the change in volume about 3 years ago, and it's now causing her some functional disability.
 
 SOAP Note
 S (Subjective)
@@ -481,7 +481,7 @@ Right Thigh MRI: Showed a significant increase in the volume of the right thigh 
 Laboratory Results:
 
 ESR, CRP, Calcium, and Phosphate: All were within normal limits."
-FOP_28579631_gemini2p5flash_SO.txt,FOP,337.0,"Patient: David Chen
+FOP_28579631_gemini2p5flash_SO.txt,FOP,337.0,"Patient: Permos Hyanys
 Date of Service: August 22, 2025
 
 S: Subjective
@@ -503,7 +503,7 @@ The patient is a new 18-year-old female presenting with a history of bilateral h
 Objective
 The patient has a noticeable waddling gait. She has limited and painful mobility of both hips, with a range of motion of 0-0-75°. On physical exam, there are hard, prominent bilateral masses in the hip area. Plain pelvic radiography and a CT scan of the pelvis and thighs were reviewed. The images show extensive soft tissue calcifications enveloping both hips and thighs. There is no involvement of the surrounding bone structures, and no other anomalous tissue was noted at the site of the calcifications."
 FOP_30607064_gemini2p5flash_SO.txt,FOP,337.0,"Subjective
-The patient, 2-year and 8-month-old male named Thomas, was diagnosed with soft tissue sarcoma following a fine needle aspiration (FNAC) of a neck swelling. The patient's guardian reports a history of a minor fall approximately 6 months ago. The patient has a history of intermittent swelling on the neck and scalp that has spontaneously resolved and then re-appeared. Most recently, the patient presented with neck stiffness and hard lesions on the nape and arms.
+The patient, 2-year and 8-month-old male named Hyphios Galaus, was diagnosed with soft tissue sarcoma following a fine needle aspiration (FNAC) of a neck swelling. The patient's guardian reports a history of a minor fall approximately 6 months ago. The patient has a history of intermittent swelling on the neck and scalp that has spontaneously resolved and then re-appeared. Most recently, the patient presented with neck stiffness and hard lesions on the nape and arms.
 
 Objective
 Vitals: Not specified in the report.
@@ -533,14 +533,14 @@ Serum calcium is within normal limits.
 Medications:
 
 The patient is currently on steroid therapy."
-FOP_30868796_gemini2p5flash_SO.txt,FOP,337.0,"Patient: Elias Thompson
+FOP_30868796_gemini2p5flash_SO.txt,FOP,337.0,"Patient: Aphneus Piriton
 
 Subjective
 Chief Complaint: Multiple bony swellings on the scalp, neck, and thorax.
 
 History of Present Illness (HPI):
 
-Elias is a 7-year-old boy who presents to the pediatric surgery clinic with a 3-year history of gradually worsening hard, bony swellings. The swellings initially appeared on his scalp after a fall at age 4. Over the past couple of years, he developed nodules on the right side of his neck, which were initially soft but gradually hardened, restricting his neck mobility on the right.  One year ago, after a fall from his bicycle, he developed palpable hard nodules on his right lateral thoracic cage. As these hardened, they began to restrict his chest expansion, more so on the right side.
+Aphneus is a 7-year-old boy who presents to the pediatric surgery clinic with a 3-year history of gradually worsening hard, bony swellings. The swellings initially appeared on his scalp after a fall at age 4. Over the past couple of years, he developed nodules on the right side of his neck, which were initially soft but gradually hardened, restricting his neck mobility on the right.  One year ago, after a fall from his bicycle, he developed palpable hard nodules on his right lateral thoracic cage. As these hardened, they began to restrict his chest expansion, more so on the right side.
 
 The parents report no other systemic complaints. They have sought multiple consultations and received varied advice.
 
@@ -560,7 +560,7 @@ Parents are in a consanguineous marriage.
 
 No family history of skeletal or connective tissue disease."
 FOP_31785620_gemini2p5flash_SO.txt,FOP,337.0,"Patient Information
-Name: Imran Khan
+Name: Polype Pygmas
 Age: 10
 Gender: Male
 
@@ -587,7 +587,7 @@ Laboratory studies: All results are within normal limits.
 Conventional radiographs: Show heterotopic ossification in the spine, neck, shoulders, hips, and right knee.
 
 Genetic analysis: Not performed due to financial constraints."
-FOP_33938904_gemini2p5flash_SO.txt,FOP,337.0,"Patient: Sarah Johnson
+FOP_33938904_gemini2p5flash_SO.txt,FOP,337.0,"Patient: Bithae Amaeus
 DOB: 08/22/2015
 
 Encounter Date: 08/22/2025
@@ -613,13 +613,13 @@ Feet X-ray (Anteroposterior): Bilateral fusion of the proximal portion of the fo
 Dorsal, Lumbar, and Long Bone X-rays: Soft tissue calcifications observed in the left cervical paravertebral region extending toward the left pectoral region, bilateral lumbar paravertebral level, left hip joint, and femoral metaphyses.
 
 Spine CT: Confirms severe scoliosis. Reveals multiple, poorly defined, heterogeneous masses with significant calcium deposits within the trapezius, back muscles, and bilaterally along the spine."
-FOP_38044456_gemini2p5flash_SO.txt,FOP,337.0,"Patient Name: Ms. Zara Karim
+FOP_38044456_gemini2p5flash_SO.txt,FOP,337.0,"Patient Name: Ms. Peleas Neidon
 DOB: August 22, 1973
 Age: 52
 Date: August 22, 2025
 
 S (Subjective)
-A 52-year-old Kurdish female, Ms. Karim, presents with a 20-year history of progressively worsening joint pain and limitation. She reports severe pain in the joints of her fingers, toes, wrists, knees, and hips bilaterally. The initial presentation at age 32 involved the interphalangeal joints of the right foot, which later progressed to the left foot. Over the next few years, the interphalangeal and wrist joints of both the right and then the left hand became involved. At age 42, she experienced involvement of her right knee and hip joints due to calcium deposition, followed by the left knee and hip joints at age 45. She states she underwent a surgical procedure on her right second toe which led to necrosis and subsequent amputation of the distal phalanx. She denies any family history of this disease. She reports her IQ is appropriate for her age.
+A 52-year-old Kurdish female, Ms. Neidon, presents with a 20-year history of progressively worsening joint pain and limitation. She reports severe pain in the joints of her fingers, toes, wrists, knees, and hips bilaterally. The initial presentation at age 32 involved the interphalangeal joints of the right foot, which later progressed to the left foot. Over the next few years, the interphalangeal and wrist joints of both the right and then the left hand became involved. At age 42, she experienced involvement of her right knee and hip joints due to calcium deposition, followed by the left knee and hip joints at age 45. She states she underwent a surgical procedure on her right second toe which led to necrosis and subsequent amputation of the distal phalanx. She denies any family history of this disease. She reports her IQ is appropriate for her age.
 
 O (Objective)
 General: A 52-year-old female in some distress from pain.
@@ -640,7 +640,7 @@ Serum alkaline phosphatase (ALP): WNL
 
 Urine analysis: Negative for protein, glucose, ketones, bilirubin, and urobilinogen."
 FOP_39287296_gemini2p5flash_SO.txt,FOP,337.0,"Subjective
-Patient Name: John Smith
+Patient Name: Hephor Lychus
 
 Age: 34
 
@@ -680,7 +680,7 @@ Labs & Pathology:
 Genetic Testing: Heterozygous molecule (c.974G > C, p.G325A) in the ACVR1 gene.
 
 Histopathology: The resected tissue from the masseter confirmed mature bone tissue."
-IPF_24881079_1_gemini2p5flash_SO.txt,IPF,2032.0,"Patient Name: Jane Doe
+IPF_24881079_1_gemini2p5flash_SO.txt,IPF,2032.0,"Patient Name: Sarcis Morgus
 DOB: 08/22/1970
 Date of Service: 05/22/2026
 
@@ -702,7 +702,7 @@ Surgical Lung Biopsy (SLB):
 
 Histopathology: Typical usual interstitial pneumonia (UIP) pattern, emphysematous changes, and diffuse pulmonary involvement of numerous macrophage accumulations in the distal airspaces, consistent with desquamative interstitial pneumonia (DIP) pattern."
 IPF_24881079_2_gemini2p5flash_SO.txt,IPF,2032.0,"Patient Report
-Patient Name: Johnathan Miller
+Patient Name: Tromalus Phidne
 Date of Birth: 06/15/1946
 Encounter Date: 09/20/2011
 Primary Care Provider: Dr. Smith
@@ -747,11 +747,11 @@ May 2006: Seen for pre-operative assessment (transurethral resection).
 
 Post-thrombotic syndrome: Seen on earlier occasions in the patient's history and currently present."
 IPF_24881079_3_gemini2p5flash_SO.txt,IPF,2032.0,"Subjective
-Patient: Johnathan Doe
+Patient: Hyader Augene
 Age: 73
 Gender: Male
 
-Mr. Doe is a 73-year-old retired male executive presenting to the respiratory clinic for evaluation of a persistent cough of 3 months' duration, which was unresponsive to a course of antibiotics. He denies shortness of breath or finger clubbing. He reports a 40 pack-year smoking history but is an ex-smoker. His past medical history is significant for coronary artery disease, for which he underwent stenting in 2005 and 2007. He reports no prior use of amiodarone.
+Mr. Augene is a 73-year-old retired male executive presenting to the respiratory clinic for evaluation of a persistent cough of 3 months' duration, which was unresponsive to a course of antibiotics. He denies shortness of breath or finger clubbing. He reports a 40 pack-year smoking history but is an ex-smoker. His past medical history is significant for coronary artery disease, for which he underwent stenting in 2005 and 2007. He reports no prior use of amiodarone.
 
 Objective
 Vitals: Resting oxygen saturation 96%. Oxygen saturation on exertion 91%.
@@ -775,7 +775,7 @@ Forced Vital Capacity (FVC): 69% predicted
 
 Diffusion Capacity of the Lungs for Carbon Monoxide (DLCO): 61% predicted"
 IPF_26810762_gemini2p5flash_SO.txt,IPF,2032.0,"SOAP Note
-Patient: David Chen
+Patient: Tanaut Tycaon
 DOB: 08/22/1970
 Date of Service: 08/22/2025
 
@@ -830,7 +830,7 @@ Microbiology: Negative for Mycobacterium tuberculosis and fungus.
 "
 IPF_26984086_gemini2p5flash_SO.txt,IPF,2032.0,"Subjective:
 
-Patient Name: John Smith
+Patient Name: Argustos Helpus
 
 Age: 71
 
@@ -857,7 +857,7 @@ Neck: Scars consistent with prior carotid surgery.
 Respiratory: Marked mid and lower zone inspiratory “Velcro-like” crepitations.
 
 Cardiovascular/Other: Remainder of the physical examination was normal."
-IPF_27233996_gemini2p5flash_SO.txt,IPF,2032.0,"Patient: Johnathan Doe
+IPF_27233996_gemini2p5flash_SO.txt,IPF,2032.0,"Patient: Argustos Helpus
 DOB: 08/22/1986
 Date of Service: 08/22/2025
 
@@ -899,7 +899,7 @@ Labs:
 CBC and routine chemistry: All within normal limits.
 
 Antibodies: ANA, anti-SS-A, anti-SS-B, ANCA, anti-DNA, anti-Jo-1, anti-Scl-70, and anti-CCP antibodies were all negative."
-IPF_27387033_gemini2p5flash_SO.txt,IPF,2032.0,"Patient Name: John Doe
+IPF_27387033_gemini2p5flash_SO.txt,IPF,2032.0,"Patient Name: Ajaxthe Endipy
 Date of Birth: 06/15/1950 (75 y/o)
 Date of Note: August 22, 2025
 
@@ -967,7 +967,7 @@ Azathioprine (50 mg twice daily)
 
 Cyclosporine (100 mg twice daily)"
 IPF_27853036_gemini2p5flash_SO.txt,IPF,2032.0,"Clinical Note
-Patient: Johnathan Doe
+Patient: Pegainos Eilena
 Patient ID: 23456789
 Date of Birth: 10/15/1970
 Date of Visit: 08/22/2025
@@ -1001,7 +1001,7 @@ FEV1/FVC (% predicted): 99.77 (79.11)
 Pathology:
 
 Lung Biopsy Histology: Moderate infiltration of the lung parenchyma by lymphocytes with associated patchy interstitial fibrosis and adjacent areas of normal lung tissue."
-IPF_30875765_gemini2p5flash_SO.txt,IPF,2032.0,"Patient Name: Mekonnen Tesfaye
+IPF_30875765_gemini2p5flash_SO.txt,IPF,2032.0,"Patient Name: Autemeto Hygieias
 DOB: 05/15/1986
 MRN: 78912345
 Date of Note: 08/22/2025
@@ -1044,7 +1044,7 @@ Follow-up Bronchoscopy with BAL: Unremarkable findings.
 
 VATS Biopsy: Biopsies from the right upper and right lower lobes showed a pattern of interstitial and fibrotic changes with heterogeneous characteristics."
 IPF_33148916_gemini2p5flash_SO.txt,IPF,2032.0,"Subjective (S)
-Mr. John Doe, a 59-year-old male, presents with a one-year history of exertional dyspnea (shortness of breath with activity), rated as mMRC grade 3. The patient reports a past medical history significant for alcoholic liver cirrhosis (Child-Pugh class A) and hypopharynx cancer, which was treated with chemoradiotherapy two years ago. He is a former heavy smoker, with a 30-pack-year history (2 packs/day for 30 years, quitting at age 50). He denies any history of occupational dust exposure, bird keeping, or drug abuse. He notes that his mother had interstitial pneumonia of unknown cause. He was referred to this facility for suspected interstitial pneumonia.
+Mr. Crochona Cirods, a 59-year-old male, presents with a one-year history of exertional dyspnea (shortness of breath with activity), rated as mMRC grade 3. The patient reports a past medical history significant for alcoholic liver cirrhosis (Child-Pugh class A) and hypopharynx cancer, which was treated with chemoradiotherapy two years ago. He is a former heavy smoker, with a 30-pack-year history (2 packs/day for 30 years, quitting at age 50). He denies any history of occupational dust exposure, bird keeping, or drug abuse. He notes that his mother had interstitial pneumonia of unknown cause. He was referred to this facility for suspected interstitial pneumonia.
 
 Objective (O)
 Vitals:
@@ -1096,10 +1096,10 @@ Rheumatoid factor: 44 IU/mL (elevated)
 Anti-nuclear antibody (ANA): 1:40 (elevated)
 
 No evidence of specific findings for pulmonary infection or hypersensitivity pneumonia on laboratory or physical examination."
-SC_17955076_1_gemini2p5flash_SO.txt,SC,171.0,"Patient Name: Lucas Miller
+SC_17955076_1_gemini2p5flash_SO.txt,SC,171.0,"Patient Name: Andymena Peleason
 
 S (Subjective)
-Lucas is a 19-year-old male with a history of ulcerative colitis diagnosed 3 years ago. He reports no previous transfusions, gallstone disease, intravenous drug use, tattoos, or significant alcohol consumption. He denies any family history of liver disease and feels healthy besides his ulcerative colitis. He states his liver function tests have been persistently abnormal despite discontinuing all medications.
+Andymena is a 19-year-old male with a history of ulcerative colitis diagnosed 3 years ago. He reports no previous transfusions, gallstone disease, intravenous drug use, tattoos, or significant alcohol consumption. He denies any family history of liver disease and feels healthy besides his ulcerative colitis. He states his liver function tests have been persistently abnormal despite discontinuing all medications.
 
 O (Objective)
 Labs:
@@ -1116,7 +1116,7 @@ ERCP: Revealed multiple strictures (stenoses) and widenings (dilatations) throug
 
 Common bile duct and extrahepatic portion of the common hepatic duct appear normal without strictures."
 SC_17955076_2_gemini2p5flash_SO.txt,SC,171.0,"Clinical Note
-Patient: Jane Doe
+Patient: Helendra Plemiops
 DOB: 08/22/1978
 Encounter Date: 08/22/2025
 
@@ -1153,7 +1153,7 @@ Antinuclear antibody: Normal
 Immunoglobulins (including IgG4): Normal
 
 CA19-9: Normal"
-SC_22892482_gemini2p5flash_SO.txt,SC,171.0,"Patient: Arthur Chen
+SC_22892482_gemini2p5flash_SO.txt,SC,171.0,"Patient: Argon Callegon
 Date: August 22, 2025
 
 S: Subjective
@@ -1186,7 +1186,7 @@ Colonic Biopsy: Confirmed inflammation in the mucosa and submucosa, with granulo
 
 Liver Biopsy: Demonstrated moderate portal and lobular plasmacytic inflammatory infiltrate with slight porto-portal and periductular fibrosis, ""onion skin"" appearance, and moderate ductular proliferation."
 SC_23402092_1_gemini2p5flash_SO.txt,SC,171.0,"Subjective (S)
-The patient, Zinhle Ndlovu, is a 26-year-old Black woman from Bloemfontein who presents with a long-standing history of chronic diarrhea, along with abdominal and back pain. She was initially diagnosed with ulcerative colitis in 2003, which was re-classified as Crohn's disease in 2009. The patient reports persistent symptoms despite previous treatment. She denies a history of axial arthropathy.
+The patient, Parte Horphis, is a 26-year-old Black woman from Bloemfontein who presents with a long-standing history of chronic diarrhea, along with abdominal and back pain. She was initially diagnosed with ulcerative colitis in 2003, which was re-classified as Crohn's disease in 2009. The patient reports persistent symptoms despite previous treatment. She denies a history of axial arthropathy.
 
 Objective (O)
 Vitals: Not provided in report.
@@ -1217,7 +1217,7 @@ Liver Biopsy: Showed lymphocytic infiltration of the portal tracts, damage to in
 
 Other: Tuberculosis was excluded."
 SC_23402092_2_gemini2p5flash_SO.txt,SC,171.0,"Clinical Note
-Patient: Jane S.
+Patient: Pygon Isiria
 DOB: 08/22/1981
 Date of Service: 08/22/2025
 
@@ -1248,10 +1248,10 @@ Endoscopy: Pan-colonic inflammation and ileitis.
 Histology: Inflammatory infiltrate of lymphocytes, plasma cells, and neutrophils. Portal fibrosis with typical ""onion skinning"" (concentric laminar fibrosis) around bile ducts. Bile ducts were infiltrated by lymphocytes and showed basement membrane thickening. Some bile ducts appeared atrophic and distorted.
 
 "
-SC_24297649_gemini2p5flash_SO.txt,SC,171.0,"Johnathan Doe, a 16-year-old male, was referred for acute abdominal pain, elevated pancreatic enzymes, and abnormal liver function tests (LFTs).
+SC_24297649_gemini2p5flash_SO.txt,SC,171.0,"Cothe Godito, a 16-year-old male, was referred for acute abdominal pain, elevated pancreatic enzymes, and abnormal liver function tests (LFTs).
 
 S: Subjective
-The patient, Johnathan Doe, is a 16-year-old male presenting with a history of recurrent, severe, and unremitting abdominal pain. The pain has progressed over the last 2.5 years since his initial diagnosis. He reports associated vomiting, dehydration, and significant weight loss, which has led to a severe deterioration of his nutritional status despite receiving parenteral nutrition. His pain is poorly controlled, with only temporary relief from a celiac nerve block and two previous pancreatic stent placements.
+The patient, Cothe Godito, is a 16-year-old male presenting with a history of recurrent, severe, and unremitting abdominal pain. The pain has progressed over the last 2.5 years since his initial diagnosis. He reports associated vomiting, dehydration, and significant weight loss, which has led to a severe deterioration of his nutritional status despite receiving parenteral nutrition. His pain is poorly controlled, with only temporary relief from a celiac nerve block and two previous pancreatic stent placements.
 
 O: Objective
 Labs: Elevated pancreatic enzymes and abnormal LFTs. Elevated serum IgG, with normal IgG4 subclass. Genetic testing for mutations in CFTR, PRSS1, and SPINK1 was negative.
@@ -1318,7 +1318,7 @@ Imaging:
 Prior CT Abdomen (Portal Venous Phase): Showed mild intrahepatic biliary dilatation, with no obstructing lesion identified; no extrahepatic biliary dilatation or hepatic metastases. This was a new finding compared to a CT scan 3 months prior.
 
 MR Cholangiopancreatography (MRCP): Showed an irregular intrahepatic biliary tree with beading and stricturing, consistent with sclerosing cholangitis. The common bile duct (CBD) was slightly irregular but not significantly dilated. No focal hepatic lesions, ductal calculi, or abnormalities of the gallbladder or pancreas were identified."
-SC_37728439_1_gemini2p5flash_SO.txt,SC,171.0,"Patient Name: Eleanor Vance
+SC_37728439_1_gemini2p5flash_SO.txt,SC,171.0,"Patient Name: Calus Demena
 
 Age: Late 60s
 
@@ -1348,7 +1348,7 @@ Computed Tomography (CT): Newly accentuated intrahepatic bile ducts without obst
 
 Magnetic Resonance Imaging and Cholangiopancreatography (MRI/MRCP): Patchy enhancement of the liver parenchyma and intrahepatic bile duct dilatation."
 SC_37728439_2_gemini2p5flash_SO.txt,SC,171.0,"S (Subjective)
-A patient in her late 60s, Susan Roberts, presents with fever, fatigue, nausea, and inappetence. She has a history of BRAF V600E mutated metastatic melanoma. She recently had her fifth atezolizumab infusion while on prednisone (PDN) 10 mg/d to prevent immune-related hepatotoxicity.
+A patient in her late 60s, Panix Isium, presents with fever, fatigue, nausea, and inappetence. She has a history of BRAF V600E mutated metastatic melanoma. She recently had her fifth atezolizumab infusion while on prednisone (PDN) 10 mg/d to prevent immune-related hepatotoxicity.
 
 O (Objective)
 Vitals: Not specified, but patient presents with fever.
@@ -1364,7 +1364,7 @@ Transaminases: Grade 1 elevation, later normalized.
 Imaging:
 
 CT: Ongoing partial response, no other pathological findings."
-SC_40184140_gemini2p5flash_SO.txt,SC,171.0,"Patient: Adam Smith
+SC_40184140_gemini2p5flash_SO.txt,SC,171.0,"Patient: Minoscus Gorethus
 Date of Admission: August 12, 2023
 Age: 26 years old
 
@@ -1399,7 +1399,7 @@ MRCP (October 2023): Biliary system shows banded stricture and a ""pruned tree""
 Histology: Liver biopsy revealed disorganized hepatic lobules and capillary bile duct network. Some capillary bile ducts were dilated with bile thrombus. Bridging fibrosis was present. Bile ducts were absent in 10 of 12 portal tracts. The simplified Scheuer score was grade 2 and stage 3 to 4.
 
 Genetics: Whole exome sequencing showed a heterozygous mutation in PKLR (NM_000298.5:c.119G > A) and UGT1A1 (NM_000463.2:c.–3275T > G)."
-TN_22246457_gemini2p5flash_SO.txt,TN,221091.0,"Patient: Jane Doe, 56-year-old female
+TN_22246457_gemini2p5flash_SO.txt,TN,221091.0,"Patient: Rheus Semneus, 56-year-old female
 Date of Service: August 22, 2025
 
 S - Subjective
@@ -1415,7 +1415,7 @@ MRI and MRA: Revealed a right persistent trigeminal artery (PTA) with moderate e
 Volumetric sequence T2: Confirmed the course of the trigeminal nerve and its adjacency to the PTA.
 
 MRI: An incidental finding of a left parietal cavernoma was observed. It presents typical findings with a rim of gliosis and hemosiderin deposits, consistent with previous bleeding."
-TN_26069378_gemini2p5flash_SO.txt,TN,221091.0,"Patient Name: Julia Rodriguez
+TN_26069378_gemini2p5flash_SO.txt,TN,221091.0,"Patient Name: Hyace Atartes
 S
 Patient is a 71-year-old woman with a history of mitral regurgitation, atrial fibrillation (AF), and chronic obstructive pulmonary disease (COPD) who presented with complaints of malaise, palpitations, and shortness of breath. She also recently developed a new complaint of sharp, severe (10/10) right-sided facial pain, which began 5 hours after starting dofetilide and resolved completely 24 hours after the medication was discontinued. The pain was so severe that it affected her ability to eat and was refractory to morphine.
 
@@ -1470,7 +1470,7 @@ Converted to sinus rhythm after the second dose of dofetilide.
 
 Converted back to AF with a rapid ventricular response after dofetilide was discontinued."
 TN_30347302_gemini2p5flash_SO.txt,TN,221091.0,"Subjective (S)
-The patient, Sarah Johnson, is a 12-year-old girl who presents with a 3-week history of severe, episodic facial pain. The pain is described as lancinating, with explosive attacks affecting the jaw, cheek, ear, temporal, and preauricular regions. The patient reports that the pain is triggered by chewing, a light breeze, raindrops, and vibrations from riding in a car. The symptoms have been so severe that they have prevented her from attending school or participating in cheerleading.
+The patient, Calth Echirid, is a 12-year-old girl who presents with a 3-week history of severe, episodic facial pain. The pain is described as lancinating, with explosive attacks affecting the jaw, cheek, ear, temporal, and preauricular regions. The patient reports that the pain is triggered by chewing, a light breeze, raindrops, and vibrations from riding in a car. The symptoms have been so severe that they have prevented her from attending school or participating in cheerleading.
 
 Previous Treatments:
 
@@ -1491,12 +1491,12 @@ Neurological Exam: Non-significant findings.
 
 Allodynia: Notably present around the left temporal region, extending into the mandibular and maxillary regions."
 TN_33737280_gemini2p5flash_SO.txt,TN,221091.0,"Clinical Note
-Patient Name: Robert Miller
+Patient Name: Irita Mothon
 Date of Visit: August 22, 2020
 Age: 84
 
 Subjective
-Mr. Miller is an 84-year-old male presenting with a 2-week history of recurrent, severe, right-sided lower jaw pain. He reports the pain is sharp, shooting, and triggered by touch, such as speaking or attempting to eat. The pain is so intense it is hindering him from any oral intake. He reports that he was previously diagnosed with a similar condition in 2014 and was successfully managed with medication, which controlled his symptoms until this recent flare-up.
+Mr. Mothon is an 84-year-old male presenting with a 2-week history of recurrent, severe, right-sided lower jaw pain. He reports the pain is sharp, shooting, and triggered by touch, such as speaking or attempting to eat. The pain is so intense it is hindering him from any oral intake. He reports that he was previously diagnosed with a similar condition in 2014 and was successfully managed with medication, which controlled his symptoms until this recent flare-up.
 
 Objective
 General: Patient appears well-developed but in distress due to pain.
@@ -1504,7 +1504,7 @@ HEENT: Cranial nerves grossly intact. Right facial sensation is intact, but ligh
 Imaging: A previous MRI from 2014 was reviewed, showing age-related multiple hyperintensities in the subcortical periventricular and deep white matter, suggestive of severe small vessel disease. No mass lesions were identified.
 Medication History: Previously prescribed carbamazepine 200 mg three times daily and gabapentin."
 TN_37086065_gemini2p5flash_SO.txt,TN,221091.0,"Clinical Note
-Patient: Evelyn Mitchell
+Patient: Buchu Sarpher
 DOB: 04/20/1934
 Date of Service: 05/18/2016
 
@@ -1522,7 +1522,7 @@ HEENT: The patient's face is symmetrical. No visible lesions or rashes. Trigger 
 
 Neurological: Cranial nerves appear intact, except for the trigeminal nerve, where the patient's symptoms are localized. Motor function is not affected."
 TN_37853617_gemini2p5flash_SO.txt,TN,221091.0,"S: Subjective
-Patient Name: Eleanor Vance
+Patient Name: Eutus Penagas
 Age: 71
 Chief Complaint: Right facial pain, numbness, and tingling.
 
@@ -1560,7 +1560,7 @@ Intraoperative Findings (Microvascular Decompression - MVD): The offending vesse
 
 Postoperative Imaging: Computed tomography angiography (CTA) confirmed the intraoperative findings, showing the PPTAv continuing as the anterior inferior cerebellar artery and supplying the cerebellar hemisphere."
 TN_38575452_gemini2p5flash_SO.txt,TN,221091.0,"Patient Information
-Name: John Doe
+Name: Apops Lychthe
 Age: 58
 Date of Service: August 22, 2025
 
@@ -1574,7 +1574,7 @@ Extraoral Exam: No signs of swelling, erythema, or lymphadenopathy. No muscle we
 Intraoral Exam: WNL.
 Imaging: Previous imaging studies from 5 years ago, including brain MRI, CT scan, and dental radiographs, were reviewed. No evidence of vascular compression of the trigeminal nerve was found. All other imaging and serological assessments were unremarkable."
 TN_39756949_gemini2p5flash_SO.txt,TN,221091.0,"SOAP Note
-Patient Name: Jane Doe
+Patient Name: Neobe Daeston
 Date of Birth: 06/15/1972
 Date of Note: 08/22/2025
 
@@ -1587,7 +1587,7 @@ Imaging:
 CT: A 4x5 mm lesion was found on the inner surface of the right petrous bone, located just anterior to the internal auditory canal.
 
 MRI: Imaging revealed a venous flow void intensity, which appeared to be compressed by a bony prominence, causing significant compression of the trigeminal nerve."
-TN_39993829_gemini2p5flash_SO.txt,TN,221091.0,"Patient: John Doe
+TN_39993829_gemini2p5flash_SO.txt,TN,221091.0,"Patient: Mutes Aglaus
 DOB: 08/22/1967
 Date of Service: 08/22/2025
 

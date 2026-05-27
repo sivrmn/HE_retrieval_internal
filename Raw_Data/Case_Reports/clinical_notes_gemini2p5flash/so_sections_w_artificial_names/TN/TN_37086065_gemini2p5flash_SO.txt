@@ -1,0 +1,18 @@
+Clinical Note
+Patient: Buchu Sarpher
+DOB: 04/20/1934
+Date of Service: 05/18/2016
+
+S: Subjective
+The patient is an 82-year-old female referred for pain management. She presents with a chief complaint of severe facial pain in the right cheek and lower jaw region. She describes the pain as shooting and electrifying. The pain attacks have been occurring for over 20 years and are triggered by chewing, talking, and touching the right side of her face. The frequency of the attacks is 20–40 times during the day and approximately 5 times each night, which severely disrupts her sleep. She rates her pain on a visual analogue scale (VAS) as 9–10/10 during an attack. The patient reports she is otherwise healthy and maintains a normal weight.
+
+O: Objective
+Vital Signs: Not recorded in the provided information.
+
+Physical Exam:
+
+Constitutional: Patient appears to be in no acute distress at the time of examination.
+
+HEENT: The patient's face is symmetrical. No visible lesions or rashes. Trigger points are noted on the right cheek and lower jaw region upon palpation, which elicit a wince from the patient.
+
+Neurological: Cranial nerves appear intact, except for the trigeminal nerve, where the patient's symptoms are localized. Motor function is not affected.

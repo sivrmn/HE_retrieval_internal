@@ -1,0 +1,48 @@
+Patient Name: Hechous Mellios
+Date: August 22, 2025
+
+S: Subjective
+The patient is a 17-year-old male presenting with a six-month history of progressive weakness and, more recently, difficulty speaking and swallowing. The weakness began in the right foot and has since spread to the right arm, left arm, and left leg over the past three weeks. He denies any history of serious illness, muscle pain, trauma, or recent infections. There is no family history of consanguineous marriage. The patient's mother states that he was born at term with a low birth weight (2000g) but had normal neuromotor development.
+
+O: Objective
+Physical Exam:
+
+Speech: Mildly dysarthric.
+
+Oral Motor: Tongue fasciculation noted. Uvula slightly deviated to the left. Decreased gag reflex.
+
+Musculoskeletal: Atrophy in the right upper and lower limbs.
+
+Strength:
+
+Right upper limb: 3/5 (deltoids, biceps, triceps, hands)
+
+Left upper limb: 4/5 (deltoids, biceps, triceps, hands)
+
+Right lower limb: 2/5 proximal (iliopsoas, hamstring, quadriceps femoris), 1/5 distal (tibialis anterior, gastrocnemius)
+
+Left lower limb: 4/5
+
+Reflexes:
+
+Hypoactive: Left upper and lower limbs.
+
+Hyperactive: Right upper and lower limbs.
+
+Sensation: Intact to light touch and pinprick throughout.
+
+Diagnostic Findings:
+
+Labs:
+
+Hemogram, peripheral smear, creatine kinase (179 IU/L), sedimentation rate (6 mm/h), blood amino acids, tandem MS/MS, and lactate were all within normal limits.
+
+Vasculitis screening and HIV serology were negative.
+
+Imaging:
+
+Cranial MRI: Increased linear signal intensity on T2W images along both internal capsule hind legs to the mesencephalon. Mild diffusion restriction in this area.
+
+Cervical, Thoracic, Lumbar MRI: Normal.
+
+Electromyography (EMG): Reduced amplitude of motor potentials. Fibrillation potential, sharp waves, and prolonged polyphasic motor unit potentials (MUPs) were seen in multiple muscles, including bilateral tibialis anterior, bilateral gastrocnemius, right biceps, right deltoid, genioglossus, and rectus abdominis.

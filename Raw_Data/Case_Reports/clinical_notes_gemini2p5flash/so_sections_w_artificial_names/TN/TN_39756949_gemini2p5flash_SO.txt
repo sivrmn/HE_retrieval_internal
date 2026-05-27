@@ -1,0 +1,14 @@
+SOAP Note
+Patient Name: Neobe Daeston
+Date of Birth: 06/15/1972
+Date of Note: 08/22/2025
+
+S: Subjective
+The patient is a 53-year-old woman presenting with a four-year history of severe, intermittent pain in the right cheek. The pain is confined to the distribution of the right infraorbital nerve.
+
+O: Objective
+Imaging:
+
+CT: A 4x5 mm lesion was found on the inner surface of the right petrous bone, located just anterior to the internal auditory canal.
+
+MRI: Imaging revealed a venous flow void intensity, which appeared to be compressed by a bony prominence, causing significant compression of the trigeminal nerve.

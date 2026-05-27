@@ -1,0 +1,59 @@
+Patient Information
+Name: Cothyia Cephus
+DOB: XX/XX/1999
+Date of Visit: 04/10/2018
+
+S (Subjective)
+19-year-old male presenting with a four-month history of progressive left leg weakness and limited movement. He reports dragging his left leg while walking. Patient also notes bilateral leg muscle twitching (fasciculations) and leg muscle atrophy. He denies back pain or numbness in his limbs and back. Patient reports his speech has become slightly slurred but denies a choking cough or difficulty swallowing (dysphagia).
+
+Past Medical History: None reported.
+Family History: Significant for a similar history in several maternal relatives. Patient's maternal uncle died at age 43 with symptoms similar to the patient's. The maternal grandmother also had a similar history and died around age 40. The mother has a history of muscle twitching and back muscle issues but no limb weakness.
+
+O (Objective)
+Physical Examination:
+
+General: Clear mind, cooperative, speech is slightly vague but comprehensible.
+
+Cranial Nerves: No abnormalities noted.
+
+Motor:
+
+Muscle Atrophy: Obvious in the left lower limb.
+
+Fasciculations: Present in both lower limbs.
+
+Muscle Tone: Decreased in the left leg; normal in all other limbs.
+
+Muscle Strength: Left leg strength is grade 4/5. All other limbs are 5/5.
+
+Gait: Dragging gait of the left leg.
+
+Sensation: Normal sensation to light touch and pinprick in all extremities.
+
+Reflexes:
+
+Deep Tendon Reflexes: Decreased in both arms. Left knee and Achilles reflexes are absent (0/4). Right knee and Achilles reflexes are normal (2/4).
+
+Pathological Signs: Negative Babinski sign bilaterally.
+Imaging/Studies:
+
+Prior Lumbar MRI: No abnormalities noted.
+
+Prior EMG: Showed extensive neurogenic damage involving the medulla, neck, chest, and waist.
+
+Head/Cervical Spine MRI: Revealed a large occipital cistern, 6th ventricle formation, a small submucosal cyst in the left maxillary sinus, and cervical degenerative changes with C4/5 and C5/6 intervertebral disc swelling.
+
+ECG: Sinus rhythm with nonspecific ventricular block.
+
+Cardiac Doppler US: No abnormalities.
+
+EMG (current): Confirmed extensive neurogenic damage. Single-fiber EMG showed a widened jitter value in the right anterior tibial muscle, suggesting neuromuscular junction instability.
+
+Sleep Study: Severe sleep apnea with an AHI of 16.48 and minimum blood oxygen of 82%.
+Laboratory Results:
+
+Elevated enzymes: AST 285.0 U/L, LDH 269.0 U/L, α-HBDH 202.0 U/L, CK 665.0 U/L, CK-MB 5.9 ng/mL, Myoglobin 176.70 ng/mL.
+
+CSF: Protein 802 mg/L. All other CSF tests (acid resistance, fungus, virus) were negative.
+
+Other labs: Routine blood work, electrolyte, renal function, vasculitis, coagulation, thyroid, and antibody tests were all within normal limits.

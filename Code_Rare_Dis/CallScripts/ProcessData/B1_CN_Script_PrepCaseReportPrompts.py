@@ -47,7 +47,7 @@ path_excerpts = path_case_reports + "case_reports_excerpts/"
 
 path_prompts = path_case_reports + "case_reports_prompts/"
 
-path_gemini_cn_so = path_case_reports + "clinical_notes_gemini2p5flash/so_sections/"
+path_gemini_cn_so = path_case_reports + "clinical_notes_gemini2p5flash/so_sections_w_artificial_names/"
 
 #%%
 prompt_header = "Please generate a mock clinical note from the following case report with clearly marked SOAP sections and randomly assign a realistic patient name: \n\n"

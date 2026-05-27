@@ -1,0 +1,33 @@
+Patient Name: Hymnius Nintaes
+DOB: 04/15/1969
+Date of Note: 08/22/2025
+
+S (Subjective)
+The patient is a 56-year-old previously healthy male presenting with a history of progressive, widespread muscle weakness and lower back pain. He reports a 1-year history of persistent lower back pain, which was initially managed with NSAIDs for 8 months without relief. Following this, he underwent a traditional medicinal procedure known as Ogosaraka in his native Kisii region of Kenya, which involved scarification of the lower back and insertion of a black metal powder into the incisions.
+
+Approximately 4 months after this procedure, he developed progressive muscle weakness in his legs, arms, and neck, leading to a "head drop" and difficulty walking and carrying objects. He also reports difficulty with coughing and has experienced significant weight loss. The patient reports no improvement in his lower back pain since the procedure. He has since traveled to Norway to seek further medical care.
+
+O (Objective)
+Vitals: Not specified in the report.
+
+Physical Exam:
+
+General: Appears frail. Significant weight loss and generalized muscle atrophy noted.
+
+Neurological:
+
+Motor: Symmetrical, widespread muscle weakness in the legs, arms, and neck. Marked head drop. Difficulties with coughing observed.
+
+Strength: Not formally graded but described as profoundly weak; patient can "hardly walk or carry heavy objects."
+
+Back: Scarification marks noted along the lumbar region, consistent with the Ogosaraka procedure.
+
+Labs/Imaging:
+
+Bloodwork: Routine bloodwork reported as normal.
+
+Liver Ultrasonography: Reported as normal despite slightly elevated liver enzymes.
+
+MRI (lumbar): Herniated lumbar disc at L4/L5 and L5/S1.
+
+Neurophysiological Exam (Neurography & EMG): Fibrillation potentials and positive sharp waves found in several skeletal muscles, including the tongue (glossus muscle). The study concluded with evidence of widespread axonal damage and denervation.

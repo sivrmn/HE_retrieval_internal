@@ -1,0 +1,14 @@
+Patient Information
+Name: Apops Lychthe
+Age: 58
+Date of Service: August 22, 2025
+
+SOAP Note
+S (Subjective)
+The patient is a 58-year-old male presenting with a chief complaint of continuous shooting pain in the right supraorbital region for the past 10 months. He describes the pain as having paroxysmal, stabbing flare-ups. The pain is aggravated by movement, particularly vibration. He reports that brief, severe pain is triggered by shaving, covering the affected area with clothing, talking loudly, or smiling. He denies any muscle weakness or other neurological deficits. The patient reports experiencing similar cyclical symptoms with periods of remission for the last 25 years. He had a neurologic consultation 5 years ago, which ruled out other causes of ophthalmic pain.
+
+O (Objective)
+Vitals: Within normal limits (WNL)
+Extraoral Exam: No signs of swelling, erythema, or lymphadenopathy. No muscle weakness or other neurological defects noted on cranial nerve examination.
+Intraoral Exam: WNL.
+Imaging: Previous imaging studies from 5 years ago, including brain MRI, CT scan, and dental radiographs, were reviewed. No evidence of vascular compression of the trigeminal nerve was found. All other imaging and serological assessments were unremarkable.

@@ -1,0 +1,25 @@
+Patient Name: Alcinus Evandan
+
+S: Subjective
+The patient is an 80-year-old man who reports a slowly progressive, non-painful left distal upper extremity discomfort over the past 8 months. He was previously diagnosed with C8 radiculopathy from C7-T1 foraminal stenosis at another hospital. He denies any bulbar symptoms.
+
+O: Objective
+Physical Exam:
+
+Motor: Left finger flexors and wrist extensors are MRC 4/5. Slight muscle atrophy is noted in the left intrinsic hand muscles. No fasciculations or split hand sign were observed.
+
+Sensory: Sensation is intact. No sensory deficit observed.
+
+Reflexes: Bilateral biceps, triceps, knee, and ankle reflexes are normal.
+
+Follow-up (6 months): Deep tendon reflexes of bilateral upper limbs and muscle tone of bilateral upper limbs and trunk are increased.
+
+Imaging:
+
+Cervical MRI: Reveals foraminal stenosis on bilateral C3-4, C4-5, and C7-T1.
+
+Neurophysiology:
+
+Nerve Conduction Study (NCS): CMAP of the left median and ulnar nerves show low amplitude. CMAP of the right upper and bilateral lower extremities are normal.
+
+Electromyography (EMG): Positive sharp waves (1+ to 2+) are observed in the left cervical paraspinalis, flexor carpi radialis, abductor pollicis brevis, abductor digiti minimi, first dorsal interossei, and bilateral thoracic paraspinalis and genioglossus.

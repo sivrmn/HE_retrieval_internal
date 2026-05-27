@@ -1,0 +1,29 @@
+Patient Name: Calus Demena
+
+Age: Late 60s
+
+Chief Complaint: Fever, fatigue, nausea, and right upper abdominal pain.
+
+Subjective
+The patient is a woman in her late 60s with a history of BRAF V600E mutated melanoma with lymph node and brain metastases. She was previously treated with ICIs and BRAFi/MEKi, with disease progression. She has been on triplet therapy (atezolizumab, vemurafenib, and cobimetinib) since March 2021. In March 2022, after 12 months on the triplet therapy and 24 atezolizumab infusions, she began experiencing a constellation of symptoms including fever, fatigue, nausea, and right upper abdominal pain. These symptoms resolved with high-dose corticosteroids (CS), and the BRAF/MEK inhibitors were held. She reported that her symptoms re-emerged after receiving her 25th atezolizumab infusion while her CS dose was being tapered.
+
+Objective
+Vitals: Not specified, but patient presented with fever.
+
+Physical Exam: Unremarkable liver-related history. Symptoms included fever, fatigue, nausea, and right upper abdominal pain.
+
+Laboratory Findings (March 2022):
+
+Elevated C-reactive protein (CRP) and interleukin-6 (IL-6).
+
+Grade 1 (G1) cholestatic liver injury.
+
+Biliary enzymes persisted at G1 ALP and G3 GGT elevation after initial treatment.
+
+Reappearance of G3 cholestatic liver injury upon symptom re-emergence.
+
+Imaging:
+
+Computed Tomography (CT): Newly accentuated intrahepatic bile ducts without obstruction.
+
+Magnetic Resonance Imaging and Cholangiopancreatography (MRI/MRCP): Patchy enhancement of the liver parenchyma and intrahepatic bile duct dilatation.

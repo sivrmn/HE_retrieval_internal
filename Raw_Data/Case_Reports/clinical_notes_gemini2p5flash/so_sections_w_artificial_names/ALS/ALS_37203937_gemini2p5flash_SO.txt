@@ -1,0 +1,31 @@
+Clinical Note
+Patient Name: Galthon Echiler
+Age: 45-year-old male
+Date of Service: August 22, 2025
+
+S: Subjective
+The patient is a 45-year-old male who presented to the emergency department with acute onset shortness of breath and multiple episodes of vomiting for one day. The patient reports a three-year history of a dry sensation in his throat, a flickering sensation in his tongue, and hoarseness. These symptoms gradually worsened over time. He now experiences frequent aspirations while eating and drinking, and his hoarseness has progressed to aphasia (loss of ability to speak). The patient also notes an inability to hold his head erect. He has been admitted multiple times in the past for recurrent aspiration pneumonitis and had a percutaneous endoscopic gastrostomy (PEG) tube placed four months ago for feeding due to dysphagia. He denies any significant personal or family history of similar conditions.
+
+O: Objective
+General: Patient appears to be in moderate distress due to shortness of breath and vomiting.
+Vitals: Not specified in the report, but assumed to be within a concerning range given the chief complaint.
+Neurological Exam:
+
+Speech: Dysarthria noted. Speech comprehension is intact, and phonation is present, but articulation is absent.
+
+Cranial Nerves (CN):
+
+CN IX, X, XI, XII: Clinically involved.
+
+Gag Reflex: Absent.
+
+Jaw Jerk: Exaggerated.
+
+Tongue: Inability to protrude, with fasciculations noted.
+
+Motor: Power of neck and shoulder muscles is diminished.
+
+Other: No other neurological deficits noted. Bowel and bladder habits are normal.
+Imaging:
+
+MRI Brain and Angiography: No lesions found in the brain or spinal cord. Imaging findings are normal.

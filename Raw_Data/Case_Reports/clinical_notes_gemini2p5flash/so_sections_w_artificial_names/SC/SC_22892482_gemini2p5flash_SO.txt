@@ -1,0 +1,32 @@
+Patient: Argon Callegon
+Date: August 22, 2025
+
+S: Subjective
+The patient is a 33-year-old male with a 12-year history of Crohn's disease (CD) who presents with a one-year history of worsening abdominal pain, bloody diarrhea, and jaundice. He reports an exacerbation of his CD symptoms despite being on maintenance mesalamine. Over the last year, he has experienced intermittent fever, rectal hemorrhage, and a 5 kg weight loss. He also reports painless jaundice and pruritus. The patient notes a one-week history of pain in his knees and elbows. His previous CD management included sulfasalazine, steroids, and metronidazole.
+
+O: Objective
+Vitals: Not provided.
+
+Physical Exam: Patient appears pale and thin. No spider naevi or palmar erythema were noted. Abdominal exam revealed moderate hepatomegaly with tenderness and stiffness on palpation. The rest of the abdominal examination was normal. No other abnormal physical findings were reported.
+
+Labs:
+
+CBC: Hemoglobin 56 g/dL, MCV 89 fL, HCT 24.5%.
+
+Liver Function Tests (LFTs): AST 94 IU/mL, ALT 72 IU/mL, ALP 958 U/mL, Total Bilirubin 117.1 μmol/L, Direct Bilirubin 101.2 μmol/L.
+
+Inflammatory Markers: ESR 113 mm/h, CRP 32.7 mg/dL.
+
+Antibodies: ANCA (+), p-ANCA (+) (1:320). ANA, AMA, AML, and anti-LKM1 were all negative.
+
+Infectious Workup: Negative for viral hepatitis (A, B, C, CMV, EB, HS, VZ) and stool pathogens (shigella, salmonella, Vibrio cholerae, Mycobacterium tuberculosis, halophilic bacteria, and proteus).
+
+Imaging: Abdominal CAT scan shows intrahepatic biliary dilation and moderate hepatomegaly.
+
+Procedures:
+
+Colonoscopy: Revealed ulcers and inflammatory polyps in a segmental pattern from the transverse colon to the terminal ileum.
+
+Colonic Biopsy: Confirmed inflammation in the mucosa and submucosa, with granulomas present, supporting the diagnosis of CD.
+
+Liver Biopsy: Demonstrated moderate portal and lobular plasmacytic inflammatory infiltrate with slight porto-portal and periductular fibrosis, "onion skin" appearance, and moderate ductular proliferation.

@@ -1,0 +1,35 @@
+Clinical Note
+Patient: Pegainos Eilena
+Patient ID: 23456789
+Date of Birth: 10/15/1970
+Date of Visit: 08/22/2025
+
+S: Subjective
+The patient is a 55-year-old male textile trader who presents with a chief complaint of breathlessness for three years and a dry cough for two and a half years. He reports no significant symptomatic relief after two months of antituberculosis treatment.
+
+O: Objective
+Vitals: Stable. SPO2 96% on room air.
+
+General Exam: Unremarkable.
+
+Chest Exam: End-inspiratory, bi-basal Velcro-like crackles noted.
+
+Other Systems: All other systemic examinations were essentially normal.
+
+Imaging:
+
+Chest X-ray: Streaky and patchy opacities in the lower zones bilaterally.
+
+Chest CT: Extensive, tiny nodular opacities of soft-tissue density throughout both lung fields.
+
+Lung Function Test: Restrictive pattern noted.
+
+FEV1 (% predicted): 2.63 (3.21)
+
+FVC (% predicted): 2.64 (3.92)
+
+FEV1/FVC (% predicted): 99.77 (79.11)
+
+Pathology:
+
+Lung Biopsy Histology: Moderate infiltration of the lung parenchyma by lymphocytes with associated patchy interstitial fibrosis and adjacent areas of normal lung tissue.

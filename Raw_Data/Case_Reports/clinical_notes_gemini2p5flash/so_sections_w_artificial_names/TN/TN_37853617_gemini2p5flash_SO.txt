@@ -1,0 +1,25 @@
+S: Subjective
+Patient Name: Eutus Penagas
+Age: 71
+Chief Complaint: Right facial pain, numbness, and tingling.
+
+History of Present Illness: The patient is a 71-year-old woman presenting with a 6-month history of persistent pain and numbness on the right side of her face. The symptoms began suddenly and have progressively worsened, spreading from her right cheek to her oral cavity, and eventually to the entire right side of her face, including the frontal and mandibular regions. She reports severe, sharp, episodic pain in her mouth when eating. She also complains of double vision.
+
+O: Objective
+General: The patient appears to be in moderate distress due to pain.
+
+Physical Examination:
+
+Temporomandibular Joint (TMJ): Active range of motion is less than 30 mm. The mandible deviates to the right upon opening.
+
+Cranial Nerves (CN):
+
+CN V (Trigeminal): Somatosensory testing revealed dysesthesia and hypoalgesia across all three branches (V1, V2, V3) on the right side of the face.
+
+CN VI (Abducens): Diplopia and difficulty with ocular abduction were noted.
+
+CN V2: Quantitative Sensory Testing (QST) shows a mechanical detection threshold (MDT) of 2.0 g on the affected side and 0.008 g on the unaffected side, indicating significant sensory loss.
+
+Diagnostic Imaging:
+
+MRI: A second MRI with contrast shows a 26 × 13 mm heterogeneous, intensely enhanced mass near the coronoid process of the mandible. The mass extends into the right temporal muscle and occupies the area around the right Meckel’s space, along the V2 and V3 branches of the trigeminal nerve, and toward the foramen ovale and pterygopalatine fossa.
