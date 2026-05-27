@@ -1,4 +1,4 @@
-name: LP_enc_trials
+name: HE_retrieval_install
 channels:
   - defaults
 dependencies:
@@ -14,4 +14,3 @@ dependencies:
   - pandas
   - pyarrow
   - multiprocess
-prefix: C:\Users\m291825\AppData\Local\anaconda3\envs\LP_enc_trials
