@@ -94,9 +94,6 @@ Rajaganapathy, Sivaraman, Jennifer St. Sauver, Filippo Pinto e Vairo, Prasad G. 
 
 This work was supported by the U.S. National Institutes of Health grants UL1TR002377 and R01HG012748.
 
-## License
-
-TBD
 
 ## Project Status
 
