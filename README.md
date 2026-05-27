@@ -69,8 +69,8 @@ conda activate your_environment_name
 
 ## Data
 
-The manuscript uses Orphadata Science derived rare disease information to build disease profiles. 
-Synthetic test notes are used for evaluation and should not be treated as real patient records.
+The manuscript uses [Orphadata Science](https://sciences.orphadata.com/orphanet-scientific-knowledge-files/) derived rare disease information to build disease profiles. 
+The synthetic SO sections used for evaluation have been generated using Gemini 2.5 Flash with publicly available [PubMed](https://pubmed.ncbi.nlm.nih.gov/) case report excerpts as a reference. The names within have been artificially generated using the [`namemaker`](https://github.com/Rickmsd/namemaker) toolbox and any similarity with real perons is coincidental. The synthetic SO sections should not be treated as real patient records.
 
 ## Citation
 
