@@ -9,30 +9,35 @@ The motivating use case is rare disease diagnosis, where patient histories may c
 
 ```
 project-root/
-+---Code_Enc_Diag/                                  # Code for encrypted retrieval, validation, and result replication
-¦   +---APIs                                        # Reusable modules and fuctions for encrypted retrieval (see Code_Enc_Diag/docs/index.html for details)
-¦   +---CallScripts                                 #
-¦   ¦   +---EncPipeline                             # 
-¦   ¦   ¦   +---`CallScript_Enc_RAG_pipeline.py`    # Main encrypted retrieval pipeline script  
-¦   ¦   +---Plots                                   #
-¦   ¦   +---Results                                 #
-¦   ¦   ¦   +---DataLeak                            #
-¦   ¦   ¦   +---EncTradeoffs                        #
-¦   ¦   +---Validation                              #
-¦   +---docs                                        #
-¦       +---index.html                              #
-+---Code_Rare_Dis                                   #
-¦   +---APIs                                        #
-¦   ¦   +---Utils                                   #
-¦   +---CallScripts                                 #
-¦       +---ProcessData                             #
-+---Processed_Data                                  #
-+---Raw_Data                                        #
-    +---Case_Reports                                #
-    ¦   +---case_reports_excerpts                   #
-    ¦   +---case_reports_prompts                    #
-    ¦   +---clinical_notes_gemini2p5flash           #
-    +---OrphaData                                   #
+├──Code_Enc_Diag/---------------------------------------# Code for encrypted retrieval, validation, and result replication
+│   ├──APIs---------------------------------------------# Reusable modules and fuctions for encrypted retrieval (see Code_Enc_Diag/docs/index.html for details)
+│   ├──CallScripts                                 
+│   │   ├──EncPipeline 
+│   │   │   ├──CallScript_Enc_RAG_pipeline.py-----------# Main encrypted retrieval pipeline script  
+│   │   ├──Plots                              
+│   │   │   ├──Callscript_Enc_Diag_Plot1_Dis.py---------# Plots manuscript Figure 3
+│   │   │   ├──CallScript_Enc_Diag_Plot2_LLMs.py--------# Plots manuscript Figure 4
+│   │   │   ├──CallScript_Enc_Diag_Plot3_EncTradeoff.py-# Plots manuscript Figure 5
+│   │   ├──Results--------------------------------------# Data from experiments
+│   │   ├──Validation
+│   │   │   ├──Callscript_embedding_leak.py-------------# Validation experiment demonstrating embedding leaks                 
+│   │   │   ├──Callscript_enc_tradeoffs.py--------------# Validation experiment testing ecryption parameters
+│   ├──docs                                        
+│       ├──index.html-----------------------------------# Details of encrypted retrieval helper modules
+├──Code_Rare_Dis----------------------------------------# Code for processing data
+│   ├──APIs---------------------------------------------# Reusable modules and functions
+│   ├──CallScripts
+│       ├──ProcessData
+│   │   │   ├──A1_KB_Script_PrepOrphaData.py------------# Script for creating RD knowledge base using Orphadata Science (part 1 of 2)
+│   │   │   ├──A2_KB_Script_PrepOrphaCorpus.py----------# Script for creating RD knowledge base using Orphadata Science (part 2 of 2)
+│   │   │   ├──B1_CN_Script_PrepCaseReportPrompts.py----# Script for creating syntethic RD SO sections - prompts from PubMed Excerpts (part 1 of 2)
+│   │   │   ├──B2_CN_Script_MakeRDTestReports.py--------# Script for creating syntethic RD SO sections - LLM clinical notes to test DataFrame (part 2 of 2)
+├──Processed_Data
+│   ├──knowledgebase_Orphadata_merged.csv---------------# RD knowledge base creating using Orphadata Science
+│   ├──rd_synthetic_SO_sections.csv---------------------# RD sythetic SO sections for testing pipeline
+├──Raw_Data
+│   ├──Case_Reports-------------------------------------# Raw data for synthetic SO sections (case report excerpts, prompts, LLM outputs)
+│   ├──OrphaData----------------------------------------# Raw data from Orphadata Science 
 ```
 
 ## Installation and Setup
