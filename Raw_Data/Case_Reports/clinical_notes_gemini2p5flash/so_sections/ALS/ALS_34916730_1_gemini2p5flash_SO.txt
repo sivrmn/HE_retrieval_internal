@@ -1,0 +1,38 @@
+Patient Note
+Patient Name: Eleanor Vance
+Date of Birth: 08/22/1977
+Date of Service: 08/22/2025
+
+S: Subjective
+The patient is a 48-year-old woman presenting to the clinic for a 1-year history of progressive motor weakness in her right lower extremity. She reports the weakness started in the right foot and has since progressed proximally up the leg. She also notes a slight tingling sensation (NRS: 1) in the entire right lower extremity, which she states is not confined to a specific dermatome. She has previously been diagnosed with right L5/S1 radiculopathy due to a herniated lumbar disc and has undergone repeated selective nerve root injections without improvement of her symptoms.
+
+O: Objective
+Vitals: Not provided.
+
+Physical Exam:
+
+Motor Strength (MRC scale):
+
+Right lower extremity: Hip flexor 3/5, knee extensor 3/5, plantar flexor 3/5, ankle dorsiflexor 0/5, extensor hallucis longus 0/5.
+
+Left lower extremity: Ankle dorsiflexor 4/5, extensor hallucis longus 4/5.
+
+Sensory: No sensory deficits noted.
+
+Reflexes: Bilateral biceps, triceps, knee, and ankle reflexes are normal.
+
+Observation: Mild atrophy and fasciculations observed in the right calf muscles. No bulbar symptoms.
+
+Imaging:
+
+Lumbar MRI: Central protrusion at L4-5 and central extrusion at L5-S1.
+
+Cervical, Thoracic, and Brain MRI: No abnormal lesions.
+
+Electrophysiological Studies:
+
+NCS: No CMAP response for the right peroneal nerve; decreased CMAP amplitudes for the right tibial and left peroneal nerves. SNAPs for bilateral superficial peroneal and sural nerves were normal. Upper extremity NCS was normal.
+
+EMG: Positive sharp waves (2+ to 3+) noted in bilateral thoracic and lumbar paraspinalis muscles, as well as bilateral lower extremity muscles, including bilateral biceps femoris, tibialis anterior, peroneus longus, tensor fascia latae, gastrocnemius, and right vastus medialis.
+
+Follow-up (6 months): Bilateral knee and ankle reflexes have since increased.

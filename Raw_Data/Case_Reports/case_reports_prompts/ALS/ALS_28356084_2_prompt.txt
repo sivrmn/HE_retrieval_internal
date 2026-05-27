@@ -1,0 +1,4 @@
+Please generate a mock clinical note from the following case report with clearly marked SOAP sections and randomly assign a realistic patient name: 
+
+
+A 68-year old right-handed Scottish woman presented in 2012 following a nine-month history of progressive shoulder and elbow weakness. She presented when her symptoms made caring for her husband difficult. She was not a blood relation of her husband. No specific environmental exposures were reported. Examination showed bilateral wasting and weakness of shoulder girdle musculature and deltoids, with diminished reflexes and widespread fasciculation. Neuro-psychological testing showed normal cognition (ECAS score 110), and no evidence of emotional lability (ELQS score 0) or anxiety or depression (HADS scores 7 and 6 respectively). 

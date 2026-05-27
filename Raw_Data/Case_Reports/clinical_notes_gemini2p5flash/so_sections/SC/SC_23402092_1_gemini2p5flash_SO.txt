@@ -1,0 +1,31 @@
+Subjective (S)
+The patient, Zinhle Ndlovu, is a 26-year-old Black woman from Bloemfontein who presents with a long-standing history of chronic diarrhea, along with abdominal and back pain. She was initially diagnosed with ulcerative colitis in 2003, which was re-classified as Crohn's disease in 2009. The patient reports persistent symptoms despite previous treatment. She denies a history of axial arthropathy.
+
+Objective (O)
+Vitals: Not provided in report.
+
+Physical Exam: Not provided in report.
+
+Laboratory Data:
+
+Alkaline Phosphatase (ALP): Persistently elevated since 2003.
+
+γ-Glutamyl Transferase (γGT): Persistently elevated since 2003.
+
+HIV: Negative.
+
+HLA-B27: Positive.
+
+Imaging & Procedures:
+
+2009 Colonoscopy: Revealed ulceration of the terminal ileum and inflammation isolated to the ascending colon. The colon distal to this was endoscopically and histologically normal.
+
+CT Scan: Showed thickening of the terminal ileum.
+
+Spine MRI: No evidence of axial arthropathy.
+
+Magnetic Resonance Cholangiography (MRCP): Demonstrated limited peri-portal T2 hyperintensity, suggestive of inflammation but not conclusive for primary sclerosing cholangitis (PSC).
+
+Liver Biopsy: Showed lymphocytic infiltration of the portal tracts, damage to interlobular bile ducts, fibrous expansion of the portal tracts, and focal interface changes. No evidence of bridging fibrosis or cirrhosis was noted.
+
+Other: Tuberculosis was excluded.

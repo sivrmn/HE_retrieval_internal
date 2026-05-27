@@ -1,0 +1,16 @@
+Patient: David Chen
+Date of Service: August 22, 2025
+
+S: Subjective
+The patient is a nine-year-old boy, accompanied by his parents, presenting with a five-year history of multiple neck and back swellings. The patient reports experiencing neck pain and stiffness. The swellings have been present since he was approximately four years old. He has no significant family history of similar swellings. The patient's parents report that he was born with malformations of both big toes, but they did not cause him or the patient any concern.
+
+O: Objective
+On physical examination, there are numerous bony swellings noted over the occiput, posterior neck, parascapular, and thoraco-lumbar paraspinal regions. There is notable neck stiffness and palpable bony masses in the posterior neck. Examination of the feet reveals bilateral hallux valgus deformities.
+
+Radiographs confirm extra-skeletal ossification of the soft tissues of the posterior neck, parascapular, and thoraco-lumbar regions. The radiographs also confirm bilateral hallux valgus deformities.
+
+Past Medical History:
+
+Age 4: Diagnosed with probable spinal tuberculosis, but did not receive treatment due to lack of supporting evidence.
+
+Age 6: Managed as a case of multiple exostoses; lost to follow-up.

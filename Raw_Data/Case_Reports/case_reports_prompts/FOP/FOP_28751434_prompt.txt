@@ -1,0 +1,9 @@
+Please generate a mock clinical note from the following case report with clearly marked SOAP sections and randomly assign a realistic patient name: 
+
+
+We present an 18-year-old young woman, born from an incestuous relation, with prior history of oligophrenia, alopecia and bilateral hearing impairment. Patient was otherwise healthy until her menarche when she began experiencing acute inflammatory pain on the hip area during the premenstrual period, with progressive increase in volume and rigidity of both hips.
+
+She presented with a waddling gait, limited and painful mobility of both hips (0-0-75°) with hard and prominent bilateral masses. There were no records of any traumatic events.
+Plain pelvic radiography and CT scan showed exuberant soft tissues calcifications, enveloping both hips and thighs. There was no involvement of the surrounding skeleton, and no other anomalous tissue was found on the calcifications location.
+Patient was otherwise fit, with no recent history of weight loss, fever or other systemic signs of illness.
+

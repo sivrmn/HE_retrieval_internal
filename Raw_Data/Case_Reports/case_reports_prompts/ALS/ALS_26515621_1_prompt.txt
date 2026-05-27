@@ -1,0 +1,12 @@
+Please generate a mock clinical note from the following case report with clearly marked SOAP sections and randomly assign a realistic patient name: 
+
+
+A 55 year-old man presented with a 6 month history of progressive painless proximal arm weakness. There are no associated sensory complains. Weakness started in the right arm and progressed to involve the left arm after 3 months. Within a year his weakness spread over the proximal arms and shoulder girdles in a symmetric fashion. There is no bladder involvement.
+
+On examination, there are significant atrophy and weakness of the shoulder girdles casing the arms to hang on the sides, man in the barrel picture. Muscle strength testing demonstrated symmetric 2/5 (Medical Research Council, MRC) strength on shoulder abduction, shoulder flexion and extension and elbow flexion, 4/5 wrist and finger flexion and3/5 wrist and finger extension and finger abduction. Facial strength, neck flexion and extension, and strength in the lower extremities were normal. Fasciculations were noted over the upper extremities. Sensation was normal. Muscle stretch reflexes were absent in the upper extremities and normal at the lower extremities. Nerve conduction studies showed low amplitude median and ulnar compound muscle action potentials (CMAP). There was no electrodiagnostic evidence of conduction block or demyelination. Median, ulnar and radial sensory nerve action potentials (SNAP) were normal. Needle electromyography showed active and chronic denervation changes with reduced recruitment throughout the upper extremities and cervical paraspinal muscles, with leg sparing. Creatine kinase (CK) level was mildly elevated at 250 IU/L. Magnetic resonance imaging (MRI) scans of the brain and cervical spine were unremarkable. GM1 Ab titers were normal.
+
+Over the following 3 years, weakness in the arms progressed to 0/5 MRC in the deltoid, biceps, elbow and wrist extension and hand intrinsic muscles with 3/5 strength at rist and finger flexion.
+
+His physical examination remained restricted for total 6 years when he developed 4/5 neck flexion weakness and diffuse 4/5 lower extremity weakness.
+
+Respiratory and bulbar function remained normal.

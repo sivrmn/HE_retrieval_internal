@@ -1,0 +1,13 @@
+Clinical Note
+Patient Name: Robert Miller
+Date of Visit: August 22, 2020
+Age: 84
+
+Subjective
+Mr. Miller is an 84-year-old male presenting with a 2-week history of recurrent, severe, right-sided lower jaw pain. He reports the pain is sharp, shooting, and triggered by touch, such as speaking or attempting to eat. The pain is so intense it is hindering him from any oral intake. He reports that he was previously diagnosed with a similar condition in 2014 and was successfully managed with medication, which controlled his symptoms until this recent flare-up.
+
+Objective
+General: Patient appears well-developed but in distress due to pain.
+HEENT: Cranial nerves grossly intact. Right facial sensation is intact, but light touch to the right mandibular area triggers a pain response. No facial asymmetry or lesions noted. Oral mucosa appears dry, consistent with poor oral intake.
+Imaging: A previous MRI from 2014 was reviewed, showing age-related multiple hyperintensities in the subcortical periventricular and deep white matter, suggestive of severe small vessel disease. No mass lesions were identified.
+Medication History: Previously prescribed carbamazepine 200 mg three times daily and gabapentin.

@@ -1,0 +1,54 @@
+Patient Name: Julia Rodriguez
+S
+Patient is a 71-year-old woman with a history of mitral regurgitation, atrial fibrillation (AF), and chronic obstructive pulmonary disease (COPD) who presented with complaints of malaise, palpitations, and shortness of breath. She also recently developed a new complaint of sharp, severe (10/10) right-sided facial pain, which began 5 hours after starting dofetilide and resolved completely 24 hours after the medication was discontinued. The pain was so severe that it affected her ability to eat and was refractory to morphine.
+
+O
+Vitals:
+
+Temperature: 37°C
+
+Heart Rate: 135 bpm initially, now 360 mg of diltiazem CD daily for rate control
+
+Blood Pressure: 152/68 mmHg
+
+Oxygen Saturation: 99% on 4 L oxygen
+
+Physical Exam:
+
+General: Mild respiratory distress. Appeared in severe distress and unable to open mouth or smile during facial pain episode.
+
+Lungs: Crackles in both lung bases with diffuse wheezing.
+
+Cardiovascular: Irregularly irregular rate, grade 2/6 holosystolic murmur.
+
+Face: Mild swelling on the right side of the face with severe tenderness. No rash noted.
+
+Labs:
+
+WBC: 7400 cells/dL initially, increased to 11,400 k/mm3 during facial pain episode
+
+Hemoglobin: 13.4 mg/dL
+
+Creatinine: 1.2 ng/mL
+
+Potassium: 3 mg/dL
+
+B-type natriuretic peptide (BNP): 1597 ng/L
+
+Erythrocyte sedimentation rate (ESR): 14 mm/h
+
+C-reactive protein (CRP): 5.75 mg/L
+
+Imaging:
+
+Computed Tomography (CT) scans (brain and maxillofacial region): Did not reveal any inflammation or pathological processes.
+
+ECG:
+
+AF with a ventricular rate of 134/min initially.
+
+ST segment depression in leads V5 and V6 (unchanged from prior ECGs).
+
+Converted to sinus rhythm after the second dose of dofetilide.
+
+Converted back to AF with a rapid ventricular response after dofetilide was discontinued.

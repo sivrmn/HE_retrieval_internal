@@ -1,0 +1,28 @@
+Patient Information
+Name: Imran Khan
+Age: 10
+Gender: Male
+
+S - Subjective
+The patient is a 10-year-old Pakistani boy who presents with a 6-month history of pain and tender masses on his back, left arm, and left hip. The patient's parents report that the pain had an insidious onset and has gradually worsened, leading to difficulty walking and a decreased range of motion in his shoulders and hips. They also report a previous surgical excision of an ossification in the left hip that provided temporary improvement, but a subsequent flare-up resulted in severe restriction of the left hip's range of motion. There is no reported history of local trauma or any similar family history. The patient has no siblings.
+
+O - Objective
+Physical Examination:
+
+General: Multiple swellings and hard masses are noted on the back, right shoulder, left hip, and left knee. A large, hard, painful mass is present on the left arm, extending from the anterior axillary fold to the entire biceps. No warmth or inflammation is noted in the masses.
+
+Musculoskeletal: Tenderness is present on palpation of all visible masses. The patient has stiffness of the abdominal and paraspinal muscles. Range of motion (ROM) is severely restricted, with shoulder abduction limited to 35 degrees on the left and 10 degrees on the right. The patient is unable to walk or squat in a normal posture and has severe restricted ROM of the left hip.
+
+Extremities: Bilateral hallux valgus is noted, but no other toe abnormalities.
+
+Lymphatics: No appreciable lymphadenopathy is noted.
+
+Family: Parents have no similar abnormalities on physical examination.
+
+Diagnostics:
+
+Laboratory studies: All results are within normal limits.
+
+Conventional radiographs: Show heterotopic ossification in the spine, neck, shoulders, hips, and right knee.
+
+Genetic analysis: Not performed due to financial constraints.

@@ -1,0 +1,45 @@
+Patient Name: Robert Miller
+
+Age: 52
+
+Date of Service: August 22, 2025
+
+S
+The patient is a 52-year-old male presenting with a 6-month history of progressive weakness and dull pain in his entire right lower extremity. The pain is not dermatome-related and is rated at 2/10 on the Numeric Rating Scale (NRS). He reports that the symptoms started gradually and have worsened over time. The patient states he was previously diagnosed with right L5 and S1 radiculopathy at another university hospital.
+
+O
+Vitals: Not specified.
+
+Physical Exam:
+
+Motor: Right ankle dorsiflexor, ankle plantarflexor, and extensor hallucis longus motor strength were 2/5 on the Medical Research Council (MRC) scale. Mild atrophy of the right calf muscles was observed. No fasciculations were noted.
+
+Sensation: No sensory deficits were observed.
+
+Reflexes: Bilateral biceps, triceps, knee, and ankle reflexes were normal.
+
+Other: No bulbar symptoms were observed.
+
+Imaging:
+
+Lumbar MRI: Diffuse bulging discs were observed at L4-5.
+
+Cervical, Thoracic, and Brain MRI: No abnormalities related to the patient’s symptoms.
+
+Nerve Conduction Study (NCS):
+
+Right Peroneal Nerve: No compound muscle action potential (CMAP) response.
+
+Right Tibial Nerve: Low-amplitude CMAP.
+
+Other: NCS of bilateral upper extremities and left lower extremity were normal.
+
+Electromyography (EMG):
+
+Positive sharp waves (2+ to 3+) were observed in the bilateral lumbar and thoracic paraspinalis, tibialis anterior, and peroneus longus muscles.
+
+Follow-up at 6 months:
+
+Increased muscle tone in bilateral lower limbs.
+
+Increased bilateral knee and ankle reflexes. Bilateral biceps and triceps reflexes remained normal.

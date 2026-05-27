@@ -1,0 +1,41 @@
+Subjective
+Patient Name: John Smith
+
+Age: 34
+
+Chief Complaint: Inability to open mouth for 1.5 years.
+
+History of Present Illness: The patient is a 34-year-old male presenting with a 1.5-year history of trismus, or inability to open his mouth. This began after an incision and drainage of a right masseter space abscess. The patient has a complex medical history starting around age 21 with lower limb numbness and pain, which progressed to severe hip stiffness and limited range of motion (ROM). At age 26, he was diagnosed with ankylosing spondylitis. Following a car accident at age 26, he was suspected of having bilateral rib fractures and a month later developed progressive stiffness and inability to lift his left arm. By age 28, he experienced neck stiffness and limited extension. At age 32, a dental abscess led to a right masseter space infection and osteomyelitis of the mandible, treated with incision and drainage. Post-operatively, his mouth opening worsened, leading to trismus and difficulty eating. The patient reports no family history of similar symptoms.
+
+Surgical History: Incision and drainage of a right masseter space abscess at age 32. Surgical resection of ossification in the masseter muscle and wisdom tooth removal under general anesthesia at our hospital.
+
+Family History: Non-contributory.
+
+Objective
+Vitals: Not specified.
+
+Physical Exam:
+
+General: Emaciated, unable to walk or squat normally due to spinal deformity.
+
+Musculoskeletal: Spinal kyphosis, restricted ROM of the left arm.
+
+Palpation: Multiple palpable nodules on shoulders, back, and knees. A cord-like mass is noted on the left axilla and a hard, cord-like mass in the right cheek extending from the zygomatic bone to the mandibular angle.
+
+Head/Neck: Facial asymmetry with right-sided swelling. The temporomandibular joint is immobile. The patient has a tight anterior overbite and overjet.
+
+Imaging:
+
+Maxillofacial CT (3D reconstruction): Enlargement of the right zygomatic bone. An “arch-shaped” bone-like tissue is seen anterior to the masseter muscle, connecting the zygomatic bone to the mandibular angle. Spur-like irregular protrusions are on the mandibular angle.
+
+Chest & Abdomen CT (3D reconstruction): Prominent ossification surrounding the thoracic cage, acromioclavicular joint, and vertebrae, forming bony bridges and fusion.
+
+Pelvic X-ray: High-density shadows around both the femur and ilium.
+
+Post-operative Images: Showed successful removal of the high-density ossification in the masseter area.
+
+Labs & Pathology:
+
+Genetic Testing: Heterozygous molecule (c.974G > C, p.G325A) in the ACVR1 gene.
+
+Histopathology: The resected tissue from the masseter confirmed mature bone tissue.

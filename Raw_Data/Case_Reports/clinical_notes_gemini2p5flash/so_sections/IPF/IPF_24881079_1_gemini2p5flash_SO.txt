@@ -1,0 +1,21 @@
+Patient Name: Jane Doe
+DOB: 08/22/1970
+Date of Service: 05/22/2026
+
+S: Subjective
+55-year-old female presents with a 9-month history of respiratory symptoms, including dyspnea on exertion, thoracic pain, and a dry cough. Symptoms were preceded by a pulmonary infection. The patient is a current smoker.
+
+O: Objective
+Pulmonary Function Tests (PFTs): Mildly impaired vital capacity (VC) but a severely reduced diffusing capacity of the lung for carbon monoxide (DLCO).
+
+Chest Multi-slice High-Resolution CT (HRCT) Scan:
+
+Initial: Apical, paraseptal emphysema; reticular abnormalities and honeycombing with traction bronchiectasis (subpleural and basal predominance); and extensive ground-glass opacities.
+
+3-Month Follow-up (after smoking cessation): Significant reduction in ground-glass opacities.
+
+DLCO (3-Month Follow-up): Increased to 51%.
+
+Surgical Lung Biopsy (SLB):
+
+Histopathology: Typical usual interstitial pneumonia (UIP) pattern, emphysematous changes, and diffuse pulmonary involvement of numerous macrophage accumulations in the distal airspaces, consistent with desquamative interstitial pneumonia (DIP) pattern.

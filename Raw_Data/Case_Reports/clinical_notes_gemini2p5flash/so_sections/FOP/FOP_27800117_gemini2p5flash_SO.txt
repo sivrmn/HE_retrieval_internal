@@ -1,0 +1,20 @@
+A patient named Jane Doe, a 38-year-old female, came in with a chief complaint of a progressively enlarging right thigh. The patient first noticed the change in volume about 3 years ago, and it's now causing her some functional disability.
+
+SOAP Note
+S (Subjective)
+The patient is a 38-year-old woman who reports a progressive increase in the size of her right thigh over the last 3 years, which has led to functional disability. She denies any personal or family history of significant medical conditions.
+
+O (Objective)
+Physical Exam:
+
+Right Thigh: A large, painless, and hard-consistency mass was found. Neovascularization was also noted.
+
+Diagnostic Imaging:
+
+Right Thigh X-ray: Revealed a large area of calcification, or ectopic bone, in the soft tissues.
+
+Right Thigh MRI: Showed a significant increase in the volume of the right thigh muscles. T2-weighted images showed high signal intensity, consistent with the calcification area seen on the X-ray.
+
+Laboratory Results:
+
+ESR, CRP, Calcium, and Phosphate: All were within normal limits.

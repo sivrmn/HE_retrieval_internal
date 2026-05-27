@@ -1,0 +1,31 @@
+Clinical Note
+Patient: Jane S.
+DOB: 08/22/1981
+Date of Service: 08/22/2025
+
+S: Subjective
+44-year-old Black female presents with chronic, poorly controlled diarrhea. Patient reports a history of ulcerative colitis diagnosed in 2005, for which she has been taking sulfasalazine. She was recently referred for management of her poorly controlled disease. She also reports a recent history of an ischiorectal abscess that was drained.
+
+O: Objective
+Vitals: Not specified.
+
+Physical Exam:
+
+Perineal Exam: Two healed fistulae noted on the buttocks, posterior to the mid-coronal level.
+
+Labs/Imaging:
+
+HIV: Negative
+
+Tuberculosis (TB): Excluded
+
+HLA-B27: Positive
+
+Liver Function Tests (LFTs): Persistently elevated ALP and γGT.
+
+Magnetic Resonance Cholangiography (MRC): Smooth intra- and extra-hepatic bile ducts, normal gallbladder, no biliary obstruction. CBD measured 10 mm.
+
+Endoscopy: Pan-colonic inflammation and ileitis.
+
+Histology: Inflammatory infiltrate of lymphocytes, plasma cells, and neutrophils. Portal fibrosis with typical "onion skinning" (concentric laminar fibrosis) around bile ducts. Bile ducts were infiltrated by lymphocytes and showed basement membrane thickening. Some bile ducts appeared atrophic and distorted.
+

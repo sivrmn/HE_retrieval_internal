@@ -1,0 +1,17 @@
+S (Subjective)
+A patient in her late 60s, Susan Roberts, presents with fever, fatigue, nausea, and inappetence. She has a history of BRAF V600E mutated metastatic melanoma. She recently had her fifth atezolizumab infusion while on prednisone (PDN) 10 mg/d to prevent immune-related hepatotoxicity.
+
+O (Objective)
+Vitals: Not specified, but patient presents with fever.
+Labs:
+
+Liver Function Tests (LFTs):
+
+Alkaline Phosphatase (ALP): Grade 2 elevation.
+
+Gamma-Glutamyl Transferase (GGT): Grade 4 elevation.
+
+Transaminases: Grade 1 elevation, later normalized.
+Imaging:
+
+CT: Ongoing partial response, no other pathological findings.

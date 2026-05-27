@@ -1,0 +1,16 @@
+Patient: Jane Doe, 56-year-old female
+Date of Service: August 22, 2025
+
+S - Subjective
+The patient is a 56-year-old female admitted to the Neurosurgery Department for evaluation of a right persistent trigeminal artery (PTA) and a left parietal cavernoma. The patient reports no new symptoms and states her baseline neurological function is normal. She denies any new headaches, dizziness, vision changes, or motor or sensory deficits. The patient and her family are aware of the findings and potential for bleeding. They are accepting of the current plan for observation and follow-up. 
+
+O - Objective
+Neurological Exam: The neurological examination was within normal limits. The patient was alert and oriented to person, place, and time. Cranial nerves II-XII were intact. Motor strength was 5/5 in all four extremities. Sensation was intact to light touch. Deep tendon reflexes were 2+ bilaterally and symmetric. Gait was steady and without ataxia.
+
+Imaging:
+
+MRI and MRA: Revealed a right persistent trigeminal artery (PTA) with moderate ectasia in its proximal tract. The artery originates from the posterolateral aspect of the intracavernous portion of the internal carotid artery, runs underneath the auditory nerve, and courses caudally between the trigeminal and abducens nerves to join the distal basilar artery. The superior cerebellar artery has no conflict with the trigeminal nerve, while the PTA is adjacent to the right side of the trigeminal nerve. The posterior communicating artery was not visualized.
+
+Volumetric sequence T2: Confirmed the course of the trigeminal nerve and its adjacency to the PTA.
+
+MRI: An incidental finding of a left parietal cavernoma was observed. It presents typical findings with a rim of gliosis and hemosiderin deposits, consistent with previous bleeding.

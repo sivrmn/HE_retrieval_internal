@@ -1,0 +1,53 @@
+SOAP Note
+Patient: David Chen
+DOB: 08/22/1970
+Date of Service: 08/22/2025
+
+S: Subjective
+Chief Complaint: Progressive shortness of breath and non-productive cough.
+
+History of Present Illness: 55-year-old male presenting with a history of progressive dyspnea, described as Medical Research Council (MRC) grade I–II, and a persistent non-productive cough. Symptoms have been worsening over time. Patient reports a recent diagnosis of autoimmune negative anterior uveitis, which prompted the pulmonology referral.
+
+Past Medical History: Bronchiectasis secondary to pulmonary tuberculosis 30 years ago, esophageal spasm.
+
+Social History: Non-smoker. No reported occupational exposures.
+
+O: Objective
+Physical Examination: Bilateral basal crackles noted on lung auscultation. Remainder of the physical exam was unremarkable.
+
+Pulmonary Function Tests (PFTs):
+
+FEV1: 60% predicted
+
+FVC: 58% predicted
+
+FEV1/FVC: 84%
+
+DLco: 62% predicted
+
+DLco/VA: 110% predicted
+
+TLC: 74% predicted
+
+RV: 120% predicted
+
+Arterial Blood Gas (ABG):
+
+pH: 7.41
+
+PaO₂: 85 mmHg
+
+PaCO₂: 40 mmHg
+
+O₂ Saturation: 98%
+
+Imaging:
+
+Chest Radiograph/CT: Showed bilateral apical pleural thickening with associated bronchiectasis, parenchymal bands, and architectural distortion/shrinkage in both upper lobes. A similar pattern was also seen in the left lower lobe.
+
+Surgical Findings:
+
+Video-Assisted Thoracoscopic Surgical (VATS) Lung Biopsy (Right Upper Lobe): Histopathology revealed severe subpleural fibrosis with septal elastosis.
+
+Microbiology: Negative for Mycobacterium tuberculosis and fungus.
+

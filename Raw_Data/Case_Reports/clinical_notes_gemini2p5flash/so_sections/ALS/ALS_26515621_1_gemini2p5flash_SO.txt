@@ -1,0 +1,57 @@
+S: Subjective
+Patient: Arthur Miller
+
+DOB: 08/15/1970 (55 years old)
+
+Chief Complaint: Progressive, painless arm weakness for 6 months.
+
+History of Present Illness: The patient is a 55-year-old male who reports a 6-month history of progressive, painless weakness. The weakness began in his right arm and, over 3 months, spread to his left arm. It then progressed to involve the proximal arms and shoulder girdles symmetrically. He denies any associated sensory complaints or bladder involvement. Over the past 3 years, the weakness has worsened, particularly in the deltoid, biceps, elbow/wrist extensors, and intrinsic hand muscles. He now reports developing mild weakness in his neck and lower extremities over the past year. He denies any issues with breathing or swallowing.
+
+O: Objective
+Physical Examination:
+
+General: Ambulatory, "man in the barrel" posture with arms hanging at the sides.
+
+Motor: Significant atrophy of the shoulder girdles and upper extremities. Fasciculations noted over the upper extremities.
+
+Upper Extremities:
+
+Shoulder abduction/flexion/extension: 2/5 bilaterally (initial)
+
+Elbow flexion: 2/5 bilaterally (initial)
+
+Wrist/finger flexion: 4/5 (initial)
+
+Wrist/finger extension: 3/5 (initial)
+
+Finger abduction: 3/5 (initial)
+
+Progression: By 3 years, strength in deltoid, biceps, elbow/wrist extensors, and hand intrinsic muscles was 0/5. Wrist and finger flexion was 3/5.
+
+Lower Extremities: Normal strength (initial), progressed to 4/5 diffuse weakness by 6 years.
+
+Facial/Bulbar/Respiratory: Normal throughout, except for neck flexion which progressed to 4/5 by 6 years.
+
+Sensory: Normal to light touch, pinprick, and vibration throughout.
+
+Reflexes: Absent in upper extremities. Normal in lower extremities.
+
+Diagnostics:
+
+Nerve Conduction Study (NCS):
+
+Low amplitude median and ulnar compound muscle action potentials (CMAPs).
+
+Normal median, ulnar, and radial sensory nerve action potentials (SNAPs).
+
+No evidence of conduction block or demyelination.
+
+Electromyography (EMG): Active and chronic denervation changes with reduced recruitment in the upper extremities and cervical paraspinal muscles. Leg sparing noted initially.
+
+Lab Tests:
+
+Creatine Kinase (CK): Mildly elevated at 250 IU/L.
+
+GM1 Ab titers: Normal.
+
+Imaging: Brain and cervical spine MRI unremarkable.

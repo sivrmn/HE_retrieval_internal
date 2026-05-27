@@ -1,0 +1,4 @@
+Please generate a mock clinical note from the following case report with clearly marked SOAP sections and randomly assign a realistic patient name: 
+
+
+A 38 -year-old female patient consulted at our department. She has no family or individual medical history. She has presented 3 years earlier, a progressive increase in thigh volume with functional disability. On the physical examination we have found a painless mass of the right thigh with hard consistency and neovascularization. Results of laboratory studies were normal: erythrocyte sedimentation rate (ESR) C-reactive protein (CRP) and calcium and phosphate levels. The radiography of the right thigh showed a large calcifications or ectopic bone of soft tissues. The magnetic resonance imaging (MRI) of the thigh has shown a significant increase of the right thigh muscles witha high signal intensity on T2- weighted images related tocalcification area. 

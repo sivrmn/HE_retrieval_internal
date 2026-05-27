@@ -1,0 +1,42 @@
+Patient: Johnathan Doe
+DOB: 08/22/1986
+Date of Service: 08/22/2025
+
+Subjective
+The patient is a 39-year-old Caucasian male with a known history of Hermansky-Pudlak syndrome (HPS), presenting for follow-up of progressively worsening dyspnea on exertion and a persistent nonproductive cough. He reports these symptoms have been worsening over the past 5 years. He denies any other rashes, joint pains, or mucosal lesions. He has experienced alopecia, skin scaling, and visual disturbances since childhood. The patient is a lifelong nonsmoker and reports no identifiable environmental exposures. He notes a significant family history of HPS, including a sister who passed away from pulmonary complications at age 12 and a father who died at age 24 from an unknown lung disease. He is currently being treated with inhaled corticosteroids and bronchodilators.
+
+Objective
+Constitutional: Well-developed, well-nourished male in no acute distress.
+Vitals: Not specified.
+Lungs: Fine crackles and scant expiratory wheezes bilaterally.
+Extremities: Digital clubbing is present.
+Skin: Scaling of the arms is noted.
+Pulmonary Function Tests (PFTs) (initial):
+
+FEV1: 1.57 L (37%)
+
+FVC: 3.36 L (59%)
+
+FEV1/FVC: 47%
+
+TLC: 6.45 L (81%)
+
+RV: 3.10 L (135%)
+
+DlCO: 13 (43%)
+Pulmonary Function Tests (PFTs) (current):
+
+FVC: 2.40 L (43%)
+
+TLC: 4.82 L (61%)
+
+DlCO: 9.5 (35%)
+6-Minute Walk Test: The patient walked 351 m without oxygen desaturation.
+Imaging:
+
+High-Resolution CT (HRCT) Scan: Revealed predominantly reticulations with honeycombing and traction bronchiectasis in a peripheral and basilar distribution, with coexistent paraseptal emphysema.
+Labs:
+
+CBC and routine chemistry: All within normal limits.
+
+Antibodies: ANA, anti-SS-A, anti-SS-B, ANCA, anti-DNA, anti-Jo-1, anti-Scl-70, and anti-CCP antibodies were all negative.

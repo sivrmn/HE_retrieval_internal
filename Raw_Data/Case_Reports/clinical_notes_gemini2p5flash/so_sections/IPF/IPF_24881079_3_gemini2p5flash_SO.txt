@@ -1,0 +1,28 @@
+Subjective
+Patient: Johnathan Doe
+Age: 73
+Gender: Male
+
+Mr. Doe is a 73-year-old retired male executive presenting to the respiratory clinic for evaluation of a persistent cough of 3 months' duration, which was unresponsive to a course of antibiotics. He denies shortness of breath or finger clubbing. He reports a 40 pack-year smoking history but is an ex-smoker. His past medical history is significant for coronary artery disease, for which he underwent stenting in 2005 and 2007. He reports no prior use of amiodarone.
+
+Objective
+Vitals: Resting oxygen saturation 96%. Oxygen saturation on exertion 91%.
+Physical Exam: Patient appears relatively well. No shortness of breath at rest. No finger clubbing. Auscultation reveals minimal bi-basal, fine, end-respiratory crackles.
+Radiology:
+
+Chest X-ray: Irregular results.
+
+High-Resolution CT (HRCT) Scan: Irregular results, with mild reticulation and sub-pleural honeycombing.
+Laboratory/Diagnostics:
+
+Serology: Negative for extractable nuclear antigens and anti-cyclic citrullinated peptides.
+
+Pulmonary Function Tests (PFTs):
+
+Total Lung Capacity (TLC): 72% predicted
+
+Vital Capacity (VC): 72% predicted
+
+Forced Vital Capacity (FVC): 69% predicted
+
+Diffusion Capacity of the Lungs for Carbon Monoxide (DLCO): 61% predicted

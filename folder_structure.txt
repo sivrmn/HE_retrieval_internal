@@ -1,0 +1,57 @@
+Folder PATH listing
+Volume serial number is 000000BA 6AB2:D617
+C:.
++---Code_Enc_Diag
+¦   +---APIs
+¦   ¦   +---EncPipeline
+¦   ¦   ¦   +---__pycache__
+¦   ¦   +---Plots
+¦   ¦   ¦   +---__pycache__
+¦   ¦   +---Utils
+¦   ¦   ¦   +---__pycache__
+¦   ¦   +---Validation
+¦   ¦       +---__pycache__
+¦   +---CallScripts
+¦   ¦   +---EncPipeline
+¦   ¦   +---Plots
+¦   ¦   ¦   +---Plots
+¦   ¦   +---Results
+¦   ¦   ¦   +---DataLeak
+¦   ¦   ¦   +---EncTradeoffs
+¦   ¦   +---Validation
+¦   +---docs
+¦       +---APIs
+¦           +---EncPipeline
+¦           +---Plots
+¦           +---Utils
+¦           +---Validation
++---Code_Rare_Dis
+¦   +---APIs
+¦   ¦   +---Utils
+¦   ¦       +---__pycache__
+¦   +---CallScripts
+¦       +---ProcessData
++---Processed_Data
++---Raw_Data
+    +---Case_Reports
+    ¦   +---case_reports_excerpts
+    ¦   ¦   +---ALS
+    ¦   ¦   +---FOP
+    ¦   ¦   +---IPF
+    ¦   ¦   +---SC
+    ¦   ¦   +---TN
+    ¦   +---case_reports_prompts
+    ¦   ¦   +---ALS
+    ¦   ¦   +---FOP
+    ¦   ¦   +---IPF
+    ¦   ¦   +---SC
+    ¦   ¦   +---TN
+    ¦   +---clinical_notes_gemini2p5flash
+    ¦       +---so_sections
+    ¦           +---ALS
+    ¦           +---FOP
+    ¦           +---IPF
+    ¦           +---SC
+    ¦           +---TN
+    +---OrphaData
+        +---XML

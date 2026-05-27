@@ -1,0 +1,17 @@
+name: LP_enc_trials
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy[version='<2']
+  - python=3.10
+  - scikit-learn
+  - seaborn
+  - spyder
+  - tqdm
+  - cmake
+  - transformers
+  - pandas
+  - pyarrow
+  - multiprocess
+prefix: C:\Users\m291825\AppData\Local\anaconda3\envs\LP_enc_trials

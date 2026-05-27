@@ -1,0 +1,19 @@
+Patient Name: Lucas Miller
+
+S (Subjective)
+Lucas is a 19-year-old male with a history of ulcerative colitis diagnosed 3 years ago. He reports no previous transfusions, gallstone disease, intravenous drug use, tattoos, or significant alcohol consumption. He denies any family history of liver disease and feels healthy besides his ulcerative colitis. He states his liver function tests have been persistently abnormal despite discontinuing all medications.
+
+O (Objective)
+Labs:
+
+Serum alkaline phosphatase (ALP) elevated to 3x the upper limit of normal.
+
+Aminotransferase levels elevated to 3x the upper limit of normal.
+
+Bilirubin level normal (< 1 mg/dL).
+
+Imaging:
+
+ERCP: Revealed multiple strictures (stenoses) and widenings (dilatations) throughout the intrahepatic biliary system, creating a "pruning type pattern" .
+
+Common bile duct and extrahepatic portion of the common hepatic duct appear normal without strictures.

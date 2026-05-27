@@ -1,0 +1,6 @@
+Please generate a mock clinical note from the following case report with clearly marked SOAP sections and randomly assign a realistic patient name: 
+
+
+A 73-year-old retired, male executive had a cough which persisted for 3 months and was unresponsive to antibiotics. The patient was an ex-smoker with a 40 pack-year smoking history and his past medical history included coronary artery disease for which he underwent stenting procedures in 2005 and 2007. The patient did not, however, receive amiodarone for this condition. Investigations included a chest radiograph which was followed by a HRCT scan, both of which showed irregular results.
+
+The patient was first referred to the respiratory clinic in 2010. On examination, the patient appeared relatively well with no shortness of breath or finger clubbing; however, minimal bi-basal, fine, end-respiratory crackles were present during auscultation. Serology testing (extractable nuclear antigens screen and anti-cyclic citrullinated peptides) was negative but initial PFTs revealed a number of low parameters including total lung capacity (72% predicted), VC (72% pred), FVC (69% pred) and DLCO (61% pred). Resting oxygen saturation was normal (96%) but low under exertion (91%). HRCT showed mild reticulation and sub-pleural honeycombing.

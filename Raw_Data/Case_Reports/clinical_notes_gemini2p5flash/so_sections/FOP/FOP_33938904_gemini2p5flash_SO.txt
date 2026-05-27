@@ -1,0 +1,26 @@
+Patient: Sarah Johnson
+DOB: 08/22/2015
+
+Encounter Date: 08/22/2025
+
+Chief Complaint: Follow-up for multiple indurated tumors and progressive joint stiffness.
+
+S: Subjective
+The patient is a 10-year-old female who was born with low birth weight (1700 g) and height (42 cm). She reportedly had normal development until age 6, when she presented with two palpable, firm tumors: a 3.5 cm mass in the right scapular region and a 5.5 cm mass at the dorsal vertebrae level. A biopsy at that time confirmed myofibromatosis. Since the initial diagnosis, her mother reports that the tumors have increased in size. The patient also experiences joint stiffness, particularly in her upper extremities, and has a limited range of motion in her neck, affecting rotation and flexion. The mother notes the patient has had short first toes with medial deviation since birth. The family history is notable for healthy non-consanguineous parents and two healthy siblings.
+
+O: Objective
+Physical Exam:
+
+Vitals/Measurements: Weight at 10th percentile, height and head circumference at 50th percentile.
+
+Musculoskeletal: Reduced neck mobility (flexion and rotation). Significant stiffness in shoulder, elbow, and wrist joints. Pronounced body asymmetry due to severe scoliosis. Multiple firm, indurated tumors are palpable in the scapular and infrascapular areas (biopsy sites) and a new tumor is noted in the right infra-axillary region.
+
+Extremities: Short first toes with medial deviation.
+
+Imaging:
+
+Feet X-ray (Anteroposterior): Bilateral fusion of the proximal portion of the fourth and fifth metatarsals. Shortening of the first toe phalanges with medial deviation.
+
+Dorsal, Lumbar, and Long Bone X-rays: Soft tissue calcifications observed in the left cervical paravertebral region extending toward the left pectoral region, bilateral lumbar paravertebral level, left hip joint, and femoral metaphyses.
+
+Spine CT: Confirms severe scoliosis. Reveals multiple, poorly defined, heterogeneous masses with significant calcium deposits within the trapezius, back muscles, and bilaterally along the spine.

@@ -1,0 +1,26 @@
+Patient Name: Ms. Zara Karim
+DOB: August 22, 1973
+Age: 52
+Date: August 22, 2025
+
+S (Subjective)
+A 52-year-old Kurdish female, Ms. Karim, presents with a 20-year history of progressively worsening joint pain and limitation. She reports severe pain in the joints of her fingers, toes, wrists, knees, and hips bilaterally. The initial presentation at age 32 involved the interphalangeal joints of the right foot, which later progressed to the left foot. Over the next few years, the interphalangeal and wrist joints of both the right and then the left hand became involved. At age 42, she experienced involvement of her right knee and hip joints due to calcium deposition, followed by the left knee and hip joints at age 45. She states she underwent a surgical procedure on her right second toe which led to necrosis and subsequent amputation of the distal phalanx. She denies any family history of this disease. She reports her IQ is appropriate for her age.
+
+O (Objective)
+General: A 52-year-old female in some distress from pain.
+
+Musculoskeletal: Significant joint limitation and pain noted in bilateral hands (interphalangeal and wrist joints), bilateral feet (interphalangeal joints), bilateral knees, and bilateral hips. Evidence of previous amputation of the distal phalanx of the right second toe is noted.
+
+Laboratory Data:
+
+Serum phosphorus: WNL (Within Normal Limits)
+
+Serum calcium: WNL
+
+Serum creatinine: WNL
+
+Serum uric acid: WNL
+
+Serum alkaline phosphatase (ALP): WNL
+
+Urine analysis: Negative for protein, glucose, ketones, bilirubin, and urobilinogen.

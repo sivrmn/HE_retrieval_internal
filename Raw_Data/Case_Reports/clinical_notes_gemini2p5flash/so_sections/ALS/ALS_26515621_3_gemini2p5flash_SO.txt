@@ -1,0 +1,27 @@
+Patient Name: Mark Chen
+
+Date of Service: August 22, 2025
+
+S (Subjective)
+The patient is a 48-year-old man who reports a 6-month history of dysphagia (difficulty swallowing) and a 4-month history of speech difficulties. For the past couple of months, he has been using a handkerchief for drooling. He denies any associated shortness of breath, arm or leg weakness, sensory complaints, double vision, or droopy eyelids. Within the first year of his symptoms, he required a communication device and a PEG (percutaneous endoscopic gastrostomy) tube for nutritional support.
+
+O (Objective)
+Physical Exam:
+
+Cranial Nerves: Atrophy and fasciculations of the tongue were noted. Palatal elevation is minimal.
+
+Motor: Marked spastic dysarthria is present. Muscle strength is as follows: orbicularis oculi 5/5, orbicularis oris 3/5, tongue 2/5 (unable to protrude tongue through cheek). Neck flexion and extension are 5/5. The rest of the motor examination is full (5/5).
+
+Sensation: Normal to large and small fiber modalities.
+
+Reflexes: Jaw jerk is 3+. All other muscle stretch reflexes are 2/4.
+
+Labs & Studies:
+
+Nerve Conduction Studies (NCS): Right arm and leg were normal.
+
+Needle Electromyography (EMG): Active and chronic denervation changes were noted at the genioglossus muscle. EMG of the cervical, thoracic, and lumbar regions was normal.
+
+Creatine Kinase (CK): Mildly elevated at 240 IU/L (reference range: 30-200 IU/L).
+
+MRI Brain: Unremarkable.
