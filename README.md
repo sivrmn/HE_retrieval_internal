@@ -38,6 +38,7 @@ project-root/
 ├──Raw_Data
 │   ├──Case_Reports-------------------------------------# Raw data for synthetic SO sections (case report excerpts, prompts, LLM outputs)
 │   ├──OrphaData----------------------------------------# Raw data from Orphadata Science 
+├──HE_retrieval_install.yml-----------------------------# Configuration file for Conda environment
 ```
 
 ## Installation and Setup
@@ -46,24 +47,25 @@ project-root/
 
 Python 3.10 or higher is recommended.
 
-This project uses Python packages for embeddings, encrypted tensor operations, numerical computation, and evaluation. The core dependencies are expected to include:
-
-- `sentence-transformers`
-- `tenseal`
-- `numpy`
-- `pandas`
-
-
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sivrmn/HE_retrieval.git
 cd HE_retrieval
 ```
 
 ### Install Dependencies
 
+Create a Conda environment using the provided [`HE_retrieval_install.yml`](HE_retrieval_install.yml) file:
+```bash
+conda env create -f HE_retrieval_install.yml -n your_environment_name
+```
 
+Then activate the environment:
+
+```bash
+conda activate your_environment_name
+```
 
 ## Data
 
