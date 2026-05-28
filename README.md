@@ -1,8 +1,8 @@
 # HE Retrieval: Privacy-Preserving Rare Disease Diagnosis
 
-`HE Retrieval` is a privacy-preserving diagnostic retrieval framework that combines large language model (LLM) embeddings with homomorphic encryption (HE). The project demonstrates how a clinical note can be converted into an embedding, encrypted on the client side, compared against a rare disease knowledge base in encrypted space, and then ranked after decryption by the client.
+`HE Retrieval` is a privacy-preserving diagnostic retrieval framework that combines large language model (LLM) embeddings with homomorphic encryption (HE). The project demonstrates how a clinical note can be converted into an embedding, encrypted on the client side, compared against a rare disease knowledge base in encrypted space, and then ranked for top probable diagnoses after decryption by the client.
 
-The motivating use case is rare disease diagnosis, where patient histories may contain protected health information (PHI). Instead of sending raw clinical notes or the corresponding embeddings to an external service, the framework sends encrypted vectors and performs similarity search without exposing the underlying clinical text.
+The motivating use case is rare disease diagnosis, where patient histories may contain protected health information (PHI). Instead of sending raw clinical notes or the corresponding embeddings to an external service, the framework sends encrypted vectors and performs similarity search without exposing the original information that includes PHI.
 
 
 ## Project Structure
@@ -70,7 +70,7 @@ conda activate your_environment_name
 ## Data
 
 The manuscript uses [Orphadata Science](https://sciences.orphadata.com/orphanet-scientific-knowledge-files/) derived rare disease information to build disease profiles. 
-The synthetic SO sections used for evaluation have been generated using Gemini 2.5 Flash with publicly available [PubMed](https://pubmed.ncbi.nlm.nih.gov/) case report excerpts as a reference. The names within have been artificially generated using the [`namemaker`](https://github.com/Rickmsd/namemaker) toolbox and any similarity with real perons is coincidental. The synthetic SO sections should not be treated as real patient records.
+The synthetic Subjective and Objective (SO) sections used for evaluation were generated using Gemini 2.5 Flash with publicly available [PubMed](https://pubmed.ncbi.nlm.nih.gov/) case report excerpts as a reference. The names within have been artificially generated using the [`namemaker`](https://github.com/Rickmsd/namemaker) toolbox and any similarity with real perons is coincidental. The synthetic SO sections serve as approximation of clinical text but should not be treated as real patient records.
 
 ## Citation
 
@@ -80,16 +80,6 @@ If you use this project, please cite the associated manuscript:
 Rajaganapathy, Sivaraman, Jennifer St. Sauver, Filippo Pinto e Vairo, Prasad G. Iyer, Hongfang Liu, and Jungwei W. Fan. "Hide and Seek: Privacy-Preserving Artificial Intelligence with a Feasibility Study in Rare Disease Diagnosis." medRxiv (2026): 2026-01.
 ```
 
-## Authors
-
-- Sivaraman Rajaganapathy
-- Jennifer St. Sauver
-- Filippo Pinto e Vairo
-- Prasad G. Iyer
-- Hongfang Liu
-- Jungwei W. Fan (Corresponding Author)
-
-
 ## Funding
 
 This work was supported by the U.S. National Institutes of Health grants UL1TR002377 and R01HG012748.
@@ -98,4 +88,4 @@ This work was supported by the U.S. National Institutes of Health grants UL1TR00
 ## Project Status
 
 Research prototype. The framework is intended for feasibility testing and methodological development. 
-It is not intended for clinical or medical use. It has not been reviewed or approved by any medical or regulatory authorities. 
+It has not been reviewed or approved by any medical or regulatory authorities. 
