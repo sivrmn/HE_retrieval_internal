@@ -332,4 +332,3 @@ plt.savefig('Plots/Fig1_retrieval_performance.svg')
 
 #%%
 
-results_total_df['Query Lengths'] = results_total_df['Query'].apply(lambda x: len(x.split()))
