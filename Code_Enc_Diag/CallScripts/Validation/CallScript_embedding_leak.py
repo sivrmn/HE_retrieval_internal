@@ -79,7 +79,7 @@ PLTObj = Enc_RAG_Plots()
 
 DEVICE = EMBObj.get_device()
 
-rd_curated_df = pd.read_csv("../../../Raw_data/rd_curated_df.csv")
+rd_curated_df = pd.read_csv("../../Processed_Data/rd_synthetic_SO_sections.csv")
 
 
 #-----------------------------------------------------------------------------#
